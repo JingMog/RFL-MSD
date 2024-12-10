@@ -1,0 +1,4225 @@
+\DeltaA	\triangle	A
+\DeltaABC	\triangle	A	B	C
+\DeltaACB	\triangle	A	C	B
+\DeltaACD	\triangle	A	C	D
+\DeltaACM	\triangle	A	C	M
+\DeltaAPB	\triangle	A	P	B
+\DeltaBA	\triangle	B	A
+\DeltaEAD	\triangle	E	A	D
+\DeltaECD	\triangle	E	C	D
+\DeltaEPD	\triangle	E	P	D
+\Deltas	\triangle	s
+\Deltat	\triangle	t
+\Deltax	\triangle	x
+\Rightarrrow	\Rightarrow
+\RightarrowA	\Rightarrow	A
+\RightarrowAA	\Rightarrow	A	A
+\RightarrowAB	\Rightarrow	A	B
+\RightarrowAC	\Rightarrow	A	C
+\RightarrowAD	\Rightarrow	A	D
+\RightarrowAE	\Rightarrow	A	E
+\RightarrowAF	\Rightarrow	A	F
+\RightarrowAN	\Rightarrow	A	N
+\RightarrowB	\Rightarrow	B
+\RightarrowBC	\Rightarrow	B	C
+\RightarrowBN	\Rightarrow	B	N
+\RightarrowC	\Rightarrow	C
+\RightarrowCD	\Rightarrow	C	D
+\RightarrowCE	\Rightarrow	C	E
+\RightarrowCM	\Rightarrow	C	M
+\RightarrowD	\Rightarrow	D
+\RightarrowE	\Rightarrow	E
+\RightarrowEM	\Rightarrow	E	M
+\RightarrowFH	\Rightarrow	F	H
+\RightarrowFM	\Rightarrow	F	M
+\RightarrowGF	\Rightarrow	G	F
+\RightarrowGFAE	\Rightarrow	G	F	A	E
+\RightarrowKAB	\Rightarrow	K	A	B
+\RightarrowMN	\Rightarrow	M	N
+\RightarrowN	\Rightarrow	N
+\RightarrowOSnA	\Rightarrow	O	S	n	A
+\RightarrowP	\Rightarrow	P
+\RightarrowPA	\Rightarrow	P	A
+\RightarrowPD	\Rightarrow	P	D
+\RightarrowPF	\Rightarrow	P	F
+\Rightarrowc	\Rightarrow	c
+\Rightarrowfc	\Rightarrow	f	c
+\Rightarrowk	\Rightarrow	k
+\Rightarrowq	\Rightarrow	q
+\Rightarrowtong	\Rightarrow	t	o	n	g
+\Rightarrowz	\Rightarrow	z
+\Righearrow	\Rightarrow
+\Rightarrom	\Rightarrow
+\Rightrrow	\Rightarrow
+\alpa	\alpha
+alphap	\alpha
+\alphaP	\alpha	P
+\alphap	\alpha	p
+\alphaQ	\alpha	Q
+\alphaa	\alpha	a
+\alphac	\alpha	c
+\alphacosB	\alpha	c	o	s	B
+\alphaf	\alpha	f
+\alphafm	\alpha	f	m
+\alphasinB	\alpha	s	i	n	B
+\alphat	\alpha	t
+\alphatan	\alpha	t	a	n
+\alphax	\alpha	x
+\alphay	\alpha	y
+\alphaAE	\alpha	A	E
+\angleABF	\angle	A	B	F
+\angleABG	\angle	A	B	G
+\angleABH	\angle	A	B	H
+\angleABM	\angle	A	B	M
+\angleABO	\angle	A	B	O
+\angleABP	\angle	A	B	P
+\angleAC	\angle	A	C
+\angleACB	\angle	A	C	B
+\angleACD	\angle	A	C	D
+\angleACE	\angle	A	C	E
+\angleACF	\angle	A	C	F
+\angleACM	\angle	A	C	M
+\angleACN	\angle	A	C	N
+\angleACP	\angle	A	C	P
+\angleACQ	\angle	A	C	Q
+\angleAD	\angle	A	D
+\angleADB	\angle	A	D	B
+\angleADC	\angle	A	D	C
+\angleADE	\angle	A	D	E
+\angleADF	\angle	A	D	F
+\angleADM	\angle	A	D	M
+\angleADO	\angle	A	D	O
+\angleAE	\angle	A	E
+\angleAEB	\angle	A	E	B
+\angleAEC	\angle	A	E	C
+\angleAED	\angle	A	E	D
+\angleAEF	\angle	A	E	F
+\angleAEG	\angle	A	E	G
+\angleAEO	\angle	A	E	O
+\angleAEP	\angle	A	E	P
+\angleAFB	\angle	A	F	B
+\angleAFC	\angle	A	F	C
+\angleAFD	\angle	A	F	D
+\angleAFE	\angle	A	F	E
+\angleAFG	\angle	A	F	G
+\angleAFO	\angle	A	F	O
+\angleAGF	\angle	A	G	F
+\angleAHD	\angle	A	H	D
+\angleAHE	\angle	A	H	E
+\angleAMB	\angle	A	M	B
+\angleAMC	\angle	A	M	C
+\angleAMD	\angle	A	M	D
+\angleAME	\angle	A	M	E
+\angleAMN	\angle	A	M	N
+\angleAMP	\angle	A	M	P
+\angleANC	\angle	A	N	C
+\angleANM	\angle	A	N	M
+\angleAOB	\angle	A	O	B
+\angleAOC	\angle	A	O	C
+\angleAOD	\angle	A	O	D
+\angleAOE	\angle	A	O	E
+\angleAOF	\angle	A	O	F
+\angleAOP	\angle	A	O	P
+\angleAPB	\angle	A	P	B
+\angleAPE	\angle	A	P	E
+\angleAPF	\angle	A	P	F
+\angleAPO	\angle	A	P	O
+\angleARE	\angle	A	R	E
+\angleAyB	\angle	A	y	B
+\angleB	\angle	B
+\angleBA	\angle	B	A
+\angleBAC	\angle	B	A	C
+\angleBAD	\angle	B	A	D
+\angleBAE	\angle	B	A	E
+\angleBAF	\angle	B	A	F
+\angleBAG	\angle	B	A	G
+\angleBAM	\angle	B	A	M
+\angleBAO	\angle	B	A	O
+\angleBAP	\angle	B	A	P
+\angleBAX	\angle	B	A	X
+\angleBAZ	\angle	B	A	Z
+\angleBC	\angle	B	C
+\angleBCA	\angle	B	C	A
+\angleBCD	\angle	B	C	D
+\angleBCE	\angle	B	C	E
+\angleBCF	\angle	B	C	F
+\angleBCG	\angle	B	C	G
+\angleBCM	\angle	B	C	M
+\angleBCN	\angle	B	C	N
+\angleBCQ	\angle	B	C	Q
+\angleBD	\angle	B	D
+\angleBDA	\angle	B	D	A
+\angleBDC	\angle	B	D	C
+\angleBDE	\angle	B	D	E
+\angleBDF	\angle	B	D	F
+\angleBDM	\angle	B	D	M
+\angleBDN	\angle	B	D	N
+\angleBEA	\angle	B	E	A
+\angleBEB	\angle	B	E	B
+\angleBEC	\angle	B	E	C
+\angleBED	\angle	B	E	D
+\angleBEF	\angle	B	E	F
+\angleBEG	\angle	B	E	G
+\angleBEH	\angle	B	E	H
+\angleBEM	\angle	B	E	M
+\angleBEN	\angle	B	E	N
+\angleBEO	\angle	B	E	O
+\angleBFA	\angle	B	F	A
+\angleBFC	\angle	B	F	C
+\angleBFD	\angle	B	F	D
+\angleBFE	\angle	B	F	E
+\angleBFG	\angle	B	F	G
+\angleBGC	\angle	B	G	C
+\angleBGD	\angle	B	G	D
+\angleBGQ	\angle	B	G	Q
+\angleBHC	\angle	B	H	C
+\angleBHF	\angle	B	H	F
+\angleBIC	\angle	B	I	C
+\angleBLC	\angle	B	L	C
+\angleBME	\angle	B	M	E
+\angleBMN	\angle	B	M	N
+\angleBNC	\angle	B	N	C
+\angleBND	\angle	B	N	D
+\angleBO	\angle	B	O
+\angleBOA	\angle	B	O	A
+\angleBOB	\angle	B	O	B
+\angleBOC	\angle	B	O	C
+\angleBOD	\angle	B	O	D
+\angleBOE	\angle	B	O	E
+\angleBOF	\angle	B	O	F
+\angleBON	\angle	B	O	N
+\angleBOP	\angle	B	O	P
+\angleBOQ	\angle	B	O	Q
+\angleBPC	\angle	B	P	C
+\angleBPE	\angle	B	P	E
+\angleBPO	\angle	B	P	O
+\angleBPQ	\angle	B	P	Q
+\angleBQG	\angle	B	Q	G
+\angleBea	\angle	B	e	a
+\angleC	\angle	C
+\angleCA	\angle	C	A
+\angleCAB	\angle	C	A	B
+\angleCAD	\angle	C	A	D
+\angleCAE	\angle	C	A	E
+\angleCAF	\angle	C	A	F
+\angleCAM	\angle	C	A	M
+\angleCAO	\angle	C	A	O
+\angleCAP	\angle	C	A	P
+\angleCB	\angle	C	B
+\angleCBA	\angle	C	B	A
+\angleCBD	\angle	C	B	D
+\angleCBE	\angle	C	B	E
+\angleCBF	\angle	C	B	F
+\angleCBG	\angle	C	B	G
+\angleCBM	\angle	C	B	M
+\angleCBO	\angle	C	B	O
+\angleCBP	\angle	C	B	P
+\angleCBS	\angle	C	B	S
+\angleCD	\angle	C	D
+\angleCDA	\angle	C	D	A
+\angleCDB	\angle	C	D	B
+\angleCDE	\angle	C	D	E
+\angleCDF	\angle	C	D	F
+\angleCDM	\angle	C	D	M
+\angleCDP	\angle	C	D	P
+\angleCDQ	\angle	C	D	Q
+\angleCEA	\angle	C	E	A
+\angleCEB	\angle	C	E	B
+\angleCED	\angle	C	E	D
+\angleCEF	\angle	C	E	F
+\angleCEM	\angle	C	E	M
+\angleCEO	\angle	C	E	O
+\angleCF	\angle	C	F
+\angleCFA	\angle	C	F	A
+\angleCFB	\angle	C	F	B
+\angleCFD	\angle	C	F	D
+\angleCFE	\angle	C	F	E
+\angleCFG	\angle	C	F	G
+\angleCGB	\angle	C	G	B
+\angleCGF	\angle	C	G	F
+\angleCKE	\angle	C	K	E
+\angleCMA	\angle	C	M	A
+\angleCMO	\angle	C	M	O
+\angleCNB	\angle	C	N	B
+\angleCO	\angle	C	O
+\angleCOA	\angle	C	O	A
+\angleCOB	\angle	C	O	B
+\angleCOC	\angle	C	O	C
+\angleCOD	\angle	C	O	D
+\angleCOE	\angle	C	O	E
+\angleCOF	\angle	C	O	F
+\angleCON	\angle	C	O	N
+\angleCOP	\angle	C	O	P
+\angleCOS	\angle	C	O	S
+\angleCPB	\angle	C	P	B
+\angleCPQ	\angle	C	P	Q
+\angleD	\angle	D
+\angleDA	\angle	D	A
+\angleDAB	\angle	D	A	B
+\angleDAC	\angle	D	A	C
+\angleDAE	\angle	D	A	E
+\angleDAF	\angle	D	A	F
+\angleDAO	\angle	D	A	O
+\angleDB	\angle	D	B
+\angleDBA	\angle	D	B	A
+\angleDBC	\angle	D	B	C
+\angleDBE	\angle	D	B	E
+\angleDBF	\angle	D	B	F
+\angleDBM	\angle	D	B	M
+\angleDCA	\angle	D	C	A
+\angleDCB	\angle	D	C	B
+\angleDCE	\angle	D	C	E
+\angleDCF	\angle	D	C	F
+\angleDCO	\angle	D	C	O
+\angleDE	\angle	D	E
+\angleDEA	\angle	D	E	A
+\angleDEB	\angle	D	E	B
+\angleDEC	\angle	D	E	C
+\angleDED	\angle	D	E	D
+\angleDEEFE	\angle	D	E	E	F	E
+\angleDEF	\angle	D	E	F
+\angleDEG	\angle	D	E	G
+\angleDF	\angle	D	F
+\angleDFA	\angle	D	F	A
+\angleDFB	\angle	D	F	B
+\angleDFC	\angle	D	F	C
+\angleDFE	\angle	D	F	E
+\angleDFG	\angle	D	F	G
+\angleDGB	\angle	D	G	B
+\angleDGH	\angle	D	G	H
+\angleDGQ	\angle	D	G	Q
+\angleDHE	\angle	D	H	E
+\angleDMC	\angle	D	M	C
+\angleDME	\angle	D	M	E
+\angleDNF	\angle	D	N	F
+\angleDO	\angle	D	O
+\angleDOA	\angle	D	O	A
+\angleDOB	\angle	D	O	B
+\angleDOC	\angle	D	O	C
+\angleDOE	\angle	D	O	E
+\angleDOP	\angle	D	O	P
+\angleDPB	\angle	D	P	B
+\angleDPC	\angle	D	P	C
+\angleE	\angle	E
+\angleEA	\angle	E	A
+\angleEAB	\angle	E	A	B
+\angleEAC	\angle	E	A	C
+\angleEAD	\angle	E	A	D
+\angleEAF	\angle	E	A	F
+\angleEAG	\angle	E	A	G
+\angleEAP	\angle	E	A	P
+\angleEAQ	\angle	E	A	Q
+\angleEB	\angle	E	B
+\angleEBA	\angle	E	B	A
+\angleEBB	\angle	E	B	B
+\angleEBC	\angle	E	B	C
+\angleEBD	\angle	E	B	D
+\angleEBF	\angle	E	B	F
+\angleEBM	\angle	E	B	M
+\angleEBN	\angle	E	B	N
+\angleEBO	\angle	E	B	O
+\angleEC	\angle	E	C
+\angleECA	\angle	E	C	A
+\angleECB	\angle	E	C	B
+\angleECD	\angle	E	C	D
+\angleECF	\angle	E	C	F
+\angleECM	\angle	E	C	M
+\angleECO	\angle	E	C	O
+\angleECP	\angle	E	C	P
+\angleEDA	\angle	E	D	A
+\angleEDB	\angle	E	D	B
+\angleEDC	\angle	E	D	C
+\angleEDF	\angle	E	D	F
+\angleEDG	\angle	E	D	G
+\angleEFB	\angle	E	F	B
+\angleEFC	\angle	E	F	C
+\angleEFD	\angle	E	F	D
+\angleEFN	\angle	E	F	N
+\angleEGHF	\angle	E	G	H	F
+\angleEHC	\angle	E	H	C
+\angleEHD	\angle	E	H	D
+\angleEHF	\angle	E	H	F
+\angleEMB	\angle	E	M	B
+\angleEMD	\angle	E	M	D
+\angleEOA	\angle	E	O	A
+\angleEOB	\angle	E	O	B
+\angleEOC	\angle	E	O	C
+\angleEOD	\angle	E	O	D
+\angleEOF	\angle	E	O	F
+\angleEOL	\angle	E	O	L
+\angleEOP	\angle	E	O	P
+\angleEPE	\angle	E	P	E
+\angleERR	\angle	E	R	R
+\angleF	\angle	F
+\angleFA	\angle	F	A
+\angleFAB	\angle	F	A	B
+\angleFAD	\angle	F	A	D
+\angleFAE	\angle	F	A	E
+\angleFAG	\angle	F	A	G
+\angleFB	\angle	F	B
+\angleFBA	\angle	F	B	A
+\angleFBC	\angle	F	B	C
+\angleFBD	\angle	F	B	D
+\angleFBE	\angle	F	B	E
+\angleFBP	\angle	F	B	P
+\angleFCB	\angle	F	C	B
+\angleFCD	\angle	F	C	D
+\angleFCE	\angle	F	C	E
+\angleFDA	\angle	F	D	A
+\angleFDB	\angle	F	D	B
+\angleFDC	\angle	F	D	C
+\angleFDE	\angle	F	D	E
+\angleFDN	\angle	F	D	N
+\angleFEA	\angle	F	E	A
+\angleFEB	\angle	F	E	B
+\angleFEC	\angle	F	E	C
+\angleFED	\angle	F	E	D
+\angleFEG	\angle	F	E	G
+\angleFEL	\angle	F	E	L
+\angleFEN	\angle	F	E	N
+\angleFGA	\angle	F	G	A
+\angleFHD	\angle	F	H	D
+\angleFNE	\angle	F	N	E
+\angleFO	\angle	F	O
+\angleFOA	\angle	F	O	A
+\angleFOD	\angle	F	O	D
+\angleFOE	\angle	F	O	E
+\angleFOP	\angle	F	O	P
+\angleFPH	\angle	F	P	H
+\angleFPP	\angle	F	P	P
+\angleG	\angle	G
+\angleGAB	\angle	G	A	B
+\angleGAD	\angle	G	A	D
+\angleGAE	\angle	G	A	E
+\angleGAF	\angle	G	A	F
+\angleGBA	\angle	G	B	A
+\angleGBC	\angle	G	B	C
+\angleGBD	\angle	G	B	D
+\angleGBE	\angle	G	B	E
+\angleGBF	\angle	G	B	F
+\angleGBQ	\angle	G	B	Q
+\angleGCB	\angle	G	C	B
+\angleGCD	\angle	G	C	D
+\angleGCE	\angle	G	C	E
+\angleGCF	\angle	G	C	F
+\angleGDE	\angle	G	D	E
+\angleGE	\angle	G	E
+\angleGEA	\angle	G	E	A
+\angleGEB	\angle	G	E	B
+\angleGEC	\angle	G	E	C
+\angleGED	\angle	G	E	D
+\angleGFB	\angle	G	F	B
+\angleGFC	\angle	G	F	C
+\angleGMN	\angle	G	M	N
+\angleHAE	\angle	H	A	E
+\angleHBE	\angle	H	B	E
+\angleHBG	\angle	H	B	G
+\angleHDA	\angle	H	D	A
+\angleHEC	\angle	H	E	C
+\angleHGF	\angle	H	G	F
+\angleI	\angle	I
+\angleK	\angle	K
+\angleM	\angle	M
+\angleMAC	\angle	M	A	C
+\angleMAD	\angle	M	A	D
+\angleMAF	\angle	M	A	F
+\angleMB	\angle	M	B
+\angleMBA	\angle	M	B	A
+\angleMBE	\angle	M	B	E
+\angleMBF	\angle	M	B	F
+\angleMBN	\angle	M	B	N
+\angleMCA	\angle	M	C	A
+\angleMCB	\angle	M	C	B
+\angleMCD	\angle	M	C	D
+\angleMCN	\angle	M	C	N
+\angleMDA	\angle	M	D	A
+\angleMDC	\angle	M	D	C
+\angleMDE	\angle	M	D	E
+\angleMEC	\angle	M	E	C
+\angleMN	\angle	M	N
+\angleMND	\angle	M	N	D
+\angleMOA	\angle	M	O	A
+\angleMOC	\angle	M	O	C
+\angleMON	\angle	M	O	N
+\angleN	\angle	N
+\angleNA	\angle	N	A
+\angleNBC	\angle	N	B	C
+\angleNCA	\angle	N	C	A
+\angleNCB	\angle	N	C	B
+\angleNDF	\angle	N	D	F
+\angleNFD	\angle	N	F	D
+\angleNHO	\angle	N	H	O
+\angleNOB	\angle	N	O	B
+\angleNOC	\angle	N	O	C
+\angleNOQ	\angle	N	O	Q
+\angleNPC	\angle	N	P	C
+\angleNQB	\angle	N	Q	B
+\angleO	\angle	O
+\angleOA	\angle	O	A
+\angleOAB	\angle	O	A	B
+\angleOAC	\angle	O	A	C
+\angleOAD	\angle	O	A	D
+\angleOBA	\angle	O	B	A
+\angleOBC	\angle	O	B	C
+\angleOBF	\angle	O	B	F
+\angleOBP	\angle	O	B	P
+\angleOCB	\angle	O	C	B
+\angleOCD	\angle	O	C	D
+\angleOCE	\angle	O	C	E
+\angleOD	\angle	O	D
+\angleODA	\angle	O	D	A
+\angleODC	\angle	O	D	C
+\angleOEB	\angle	O	E	B
+\angleOEC	\angle	O	E	C
+\angleOEF	\angle	O	E	F
+\angleOFP	\angle	O	F	P
+\angleOHC	\angle	O	H	C
+\angleOL	\angle	O	L
+\angleOMD	\angle	O	M	D
+\angleOPA	\angle	O	P	A
+\angleOPB	\angle	O	P	B
+\angleOPD	\angle	O	P	D
+\angleOQB	\angle	O	Q	B
+\angleP	\angle	P
+\anglePAB	\angle	P	A	B
+\anglePAC	\angle	P	A	C
+\anglePAE	\angle	P	A	E
+\anglePBA	\angle	P	B	A
+\anglePBC	\angle	P	B	C
+\anglePCB	\angle	P	C	B
+\anglePCF	\angle	P	C	F
+\anglePDA	\angle	P	D	A
+\anglePFA	\angle	P	F	A
+\anglePFE	\angle	P	F	E
+\anglePNB	\angle	P	N	B
+\anglePND	\angle	P	N	D
+\anglePOA	\angle	P	O	A
+\anglePOC	\angle	P	O	C
+\angleQ	\angle	Q
+\angleQA	\angle	Q	A
+\angleQAB	\angle	Q	A	B
+\angleQAE	\angle	Q	A	E
+\angleQBC	\angle	Q	B	C
+\angleQCA	\angle	Q	C	A
+\angleQCF	\angle	Q	C	F
+\angleQCP	\angle	Q	C	P
+\angleQCQ	\angle	Q	C	Q
+\angleQED	\angle	Q	E	D
+\angleQOB	\angle	Q	O	B
+\angleQOD	\angle	Q	O	D
+\angleQPG	\angle	Q	P	G
+\angleR	\angle	R
+\angleRB	\angle	R	B
+\angleS	\angle	S
+\angleSAC	\angle	S	A	C
+\angleVDB	\angle	V	D	B
+\angleY	\angle	Y
+\angleYZX	\angle	Y	Z	X
+\angleZ	\angle	Z
+\angleZCE	\angle	Z	C	E
+\angleZYA	\angle	Z	Y	A
+\angleZYX	\angle	Z	Y	X
+\angleaABC	\angle	a	A	B	C
+\angleaob	\angle	a	o	b
+\anglenCB	\angle	n	C	B
+\angleopq	\angle	o	p	q
+\angleoqp	\angle	o	q	p
+\anglepqc	\angle	p	q	c
+\angleq	\angle	q
+\angleqpc	\angle	q	p	c
+\anglet	\angle	t
+\angley	\angle	y
+\anglrADC	\angle	A	D	C
+\barB	\bar	B
+\bare	\bar	e
+\bary	\bar	y
+\betaB	\beta	B
+\betaSin	\beta	S	i	n
+\betacos	\beta	c	o	s
+\botAH	\bot	A	H
+\botBF	\bot	B	F
+\botBM	\bot	B	M
+\botCF	\bot	C	F
+\botGE	\bot	G	E
+\botM	\bot	M
+\botOE	\bot	O	E
+\botPO	\bot	P	O
+\botSB	\bot	S	B
+\botSD	\bot	S	D
+\botA	\bot	A
+\botAB	\bot	A	B
+\botABEF	\bot	A	B	E	F
+\botAC	\bot	A	C
+\botACD	\bot	A	C	D
+\botAD	\bot	A	D
+\botAE	\bot	A	E
+\botAF	\bot	A	F
+\botAG	\bot	A	G
+\botAO	\bot	A	O
+\botAP	\bot	A	P
+\botAQ	\bot	A	Q
+\botB	\bot	B
+\botBB	\bot	B	B
+\botBC	\bot	B	C
+\botBD	\bot	B	D
+\botBE	\bot	B	E
+\botBG	\bot	B	G
+\botBH	\bot	B	H
+\botBP	\bot	B	P
+\botBQ	\bot	B	Q
+\botC	\bot	C
+\botCA	\bot	C	A
+\botCB	\bot	C	B
+\botCBD	\bot	C	B	D
+\botCD	\bot	C	D
+\botCDE	\bot	C	D	E
+\botCE	\bot	C	E
+\botCG	\bot	C	G
+\botCH	\bot	C	H
+\botCM	\bot	C	M
+\botDA	\bot	D	A
+\botDB	\bot	D	B
+\botDC	\bot	D	C
+\botDD	\bot	D	D
+\botDE	\bot	D	E
+\botDF	\bot	D	F
+\botDG	\bot	D	G
+\botDH	\bot	D	H
+\botDM	\bot	D	M
+\botDO	\bot	D	O
+\botDP	\bot	D	P
+\botDQ	\bot	D	Q
+\botE	\bot	E
+\botEB	\bot	E	B
+\botEC	\bot	E	C
+\botED	\bot	E	D
+\botEF	\bot	E	F
+\botF	\bot	F
+\botFA	\bot	F	A
+\botFB	\bot	F	B
+\botFG	\bot	F	G
+\botFM	\bot	F	M
+\botFN	\bot	F	N
+\botFP	\bot	F	P
+\botMC	\bot	M	C
+\botMN	\bot	M	N
+\botNM	\bot	N	M
+\botOA	\bot	O	A
+\botOB	\bot	O	B
+\botOC	\bot	O	C
+\botOD	\bot	O	D
+\botOM	\bot	O	M
+\botON	\bot	O	N
+\botOP	\bot	O	P
+\botP	\bot	P
+\botPA	\bot	P	A
+\botPB	\bot	P	B
+\botPC	\bot	P	C
+\botPD	\bot	P	D
+\botPE	\bot	P	E
+\botPF	\bot	P	F
+\botQF	\bot	Q	F
+\botVB	\bot	V	B
+\botVDC	\bot	V	D	C
+\bota	\bot	a
+\botaf	\bot	a	f
+\botbc	\bot	b	c
+\botl	\bot	l
+\botofOF	\bot	o	f	O	F
+\bots	\bot	s
+\boty	\bot	y
+\cbotC	\cdot	C
+\cdotA	\cdot	A
+\cdotAA	\cdot	A	A
+\cdotAB	\cdot	A	B
+\cdotAC	\cdot	A	C
+\cdotAD	\cdot	A	D
+\cdotAE	\cdot	A	E
+\cdotAF	\cdot	A	F
+\cdotAO	\cdot	A	O
+\cdotAP	\cdot	A	P
+\cdotB	\cdot	B
+\cdotBC	\cdot	B	C
+\cdotBD	\cdot	B	D
+\cdotBDsinB	\cdot	B	D	s	i	n	B
+\cdotBE	\cdot	B	E
+\cdotBF	\cdot	B	F
+\cdotBO	\cdot	B	O
+\cdotC	\cdot	C
+\cdotCC	\cdot	C	C
+\cdotCD	\cdot	C	D
+\cdotCO	\cdot	C	O
+\cdotCos	\cdot	C	o	s
+\cdotD	\cdot	D
+\cdotDC	\cdot	D	C
+\cdotDE	\cdot	D	E
+\cdotDN	\cdot	D	N
+\cdotF	\cdot	F
+\cdotFB	\cdot	F	B
+\cdotIn	\cdot	I	n
+\cdotOB	\cdot	O	B
+\cdotOC	\cdot	O	C
+\cdotOD	\cdot	O	D
+\cdotOP	\cdot	O	P
+\cdotP	\cdot	P
+\cdotQC	\cdot	Q	C
+\cdotS	\cdot	S
+\cdotT	\cdot	T
+\cdotV	\cdot	V
+\cdotc	\cdot	c
+\cdotcos	\cdot	c	o	s
+\cdotd	\cdot	d
+\cdotds	\cdot	d	s
+\cdotdt	\cdot	d	t
+\cdote	\cdot	e
+\cdotf	\cdot	f
+\cdoti	\cdot	i
+\cdotl	\cdot	l
+\cdotln	\cdot	l	n
+\cdotlnl	\cdot	l	n	l
+\cdotn	\cdot	n
+\cdotpAD	\cdot	p	A	D
+\cdotpt	\cdot	p	t
+\cdotq	\cdot	q
+\cdotr	\cdot	r
+\cdotrm	\cdot	r	m
+\cdotsA	\cdot	s	A
+\cdotsE	\cdot	s	E
+\cdotsa	\cdot	s	a
+\cdotsi	\cdot	s	i
+\cdotsinC	\cdot	s	i	n	C
+\cdotsm	\cdot	s	m
+\cdotsx	\cdot	s	x
+\cdottC	\cdot	t	C
+\cdotv	\cdot	v
+\checkmarkA	\checkmark	A
+\checkmarkB	\checkmark	B
+\checkmarkC	\checkmark	C
+\checkmarka	\checkmark	a
+\circA	\circ	A
+\circAD	\circ	A	D
+\circB	\circ	B
+\circF	\circ	F
+\circOC	\circ	O	C
+\circOG	\circ	O	G
+\circe	\circ	e
+\circfiy	\circ	f	i	y
+\circt	\circ	t
+\congAC	\cong	A	C
+\congADEF	\cong	A	D	E	F
+\congAEC	\cong	A	E	C
+\congAH	\cong	A	H
+\congBC	\cong	B	C
+\congBDC	\cong	B	D	C
+\congDCB	\cong	D	C	B
+\congDES	\cong	D	E	S
+\congEGF	\cong	E	G	F
+\congFCD	\cong	F	C	D
+\congFDC	\cong	F	D	C
+\congR	\cong	R
+\congRT	\cong	R	T
+\congRt	\cong	R	t
+\congRtDFC	\cong	R	t	D	F	C
+\conga	\cong	a
+\congpm	\cong	p	m
+\capA	\cap	A
+\capAB	\cap	A	B
+\capCC	\cap	C	C
+\capCD	\cap	C	D
+\capHF	\cap	H	F
+\capMN	\cap	M	N
+\capP	\cap	P
+\capSD	\cap	S	D
+\inA	\in	A
+\inB	\in	B
+\inE	\in	E
+\inN	\in	N
+\inR	\in	R
+\inZ	\in	Z
+\inf	\in	f
+\iny	\in	y
+\inx	\in	x
+\inq	\in	q
+\inta	\int	a
+\intarc	\int	a	r	c
+\intc	\int	c
+\intcos	\int	c	o	s
+\inte	\int	e
+\intf	\int	f
+\intsin	\int	s	i	n
+\intx	\int	x
+\intxcosdx	\int	x	c	o	s	d	x
+\intxcosx	\int	x	c	o	s	x
+\intxcosxdx	\int	x	c	o	s	x	d	x
+\intxcoxdx	\int	x	c	o	x	d	x
+\intxd	\int	x	d
+\intxycos	\int	x	y	c	o	s
+\inty	\int	y
+\intz	\int	z
+\lambdaBN	\lambda	B	N
+\lambdakb	\lambda	k	b
+\lambdan	\lambda	n
+\lambdax	\lambda	x
+\lambday	\lambda	y
+\leQ	\le	Q
+\lea	\le	a
+\leb	\le	b
+\lew	\le	w
+\ley	\le	y
+\leqBD	\le	B	D
+\leqP	\le	P
+\leqS	\le	S
+\leqT	\le	T
+\leqX	\le	X
+\leqY	\le	Y
+\leqc	\le	c
+\leqe	\le	e
+\leqf	\le	f
+\leqg	\le	g
+\leqk	\le	k
+\leqp	\le	p
+\leqr	\le	r
+\leqy	\le	y
+\leqz	\le	z
+\leqR	\le	R
+\leqi	\le	i
+\leqn	\le	n
+\neqAB	\ne	A	B
+\neqAC	\ne	A	C
+\neqBE	\ne	B	E
+\neqC	\ne	C
+\neqCD	\ne	C	D
+\neqP	\ne	P
+\neql	\ne	l
+\neqm	\ne	m
+\neqn	\ne	n
+\angelAM	\angle	A	M
+\angelBAC	\angle	B	A	C
+\angelBOA	\angle	B	O	A
+\angelC	\angle	C
+\angelDEC	\angle	D	E	C
+\angelPBC	\angle	P	B	C
+\angieABC	\angle	A	B	C
+\angieDEF	\angle	D	E	F
+\anglA	\angle	A
+\anglACD	\angle	A	C	D
+\anglACF	\angle	A	C	F
+\anglB	\angle	B
+\anglBCD	\angle	B	C	D
+\anglBCE	\angle	B	C	E
+\anglBCF	\angle	B	C	F
+\anglC	\angle	C
+\anglCe	\angle	C	e
+\anglDAC	\angle	D	A	C
+\anglDBC	\angle	D	B	C
+\anglECF	\angle	E	C	F
+\anglFAD	\angle	F	A	D
+\anglFCE	\angle	F	C	E
+\anglFEB	\angle	F	E	B
+\anglFEC	\angle	F	E	C
+\anglFOC	\angle	F	O	C
+\anlgeAOD	\angle	A	O	D
+\baceuseAB	\because	A	B
+\baceuseCD	\because	C	D
+\baceuseFD	\because	F	D
+\BECAUSEDC	\because	D	C
+\bcauseDC	\because	D	C
+\bcausePA	\because	P	A
+\beacusen	\because	n
+\becasueAB	\because	A	B
+\becausAB	\because	A	B
+\becausDE	\because	D	E
+\becausHF	\because	H	F
+\becauzeBP	\because	B	P
+\becayseC	\because	C
+\becuaseBP	\because	B	P
+\becuseAB	\because	A	B
+\beecauseD	\because	D
+\BOTC	\bot	C
+\CosA	c	o	s	A
+\SPACEAB	\space	A	B
+\SPACEE	\space	E
+\SPACEOB	\space	O	B
+\SPACEY	\space	Y
+\SPACEbc	\space	b	c
+\UNKABC	\unk	A	B	C
+\UNKPAB	\unk	P	A	B
+\UNKQE	\unk	Q	E
+\UNKf	\unk	f
+\unkGF	\unk	G	F
+\bigcapA	\cap	A
+\bigcapC	\cap	C
+\bigcapPBCB	\cap	P	B	C	B
+\capAC	\cap	A	C
+\capAD	\cap	A	D
+\capAF	\cap	A	F
+\capAP	\cap	A	P
+\capB	\cap	B
+\capBC	\cap	B	C
+\capBD	\cap	B	D
+\capBE	\cap	B	E
+\capBF	\cap	B	F
+\capBH	\cap	B	H
+\capBM	\cap	B	M
+\capC	\cap	C
+\capCF	\cap	C	F
+\capCM	\cap	C	M
+\capCcmC	\cap	C	c	m	C
+\capDA	\cap	D	A
+\capDC	\cap	D	C
+\capDE	\cap	D	E
+\capDQ	\cap	D	Q
+\capEC	\cap	E	C
+\capEF	\cap	E	F
+\capEG	\cap	E	G
+\capEPCD	\cap	E	P	C	D
+\capFG	\cap	F	G
+\capOC	\cap	O	C
+\capOD	\cap	O	D
+\capPA	\cap	P	A
+\capPC	\cap	P	C
+\capPD	\cap	P	D
+\capQ	\cap	Q
+\cosA	c	o	s	A
+\cosB	c	o	s	B
+\cosBsin	c	o	s	B	s	i	n
+\cosC	c	o	s	C
+\cosCB	c	o	s	C	B
+\cosPBA	c	o	s	P	B	A
+\cosaa	c	o	s	a	a
+\cosxdx	c	o	s	x	d	x
+\csoB	c	o	s	B
+\cupA	\cup	A
+\cupB	\cup	B
+\cupC	\cup	C
+\cupN	\cup	N
+\divF	\div	F
+\divN	\div	N
+\divX	\div	X
+\divcosx	\div	c	o	s	x
+\divd	\div	d
+\divs	\div	s
+\divt	\div	t
+\entea	\\	a
+\enteb	\\	b
+\entec	\\	c
+\enterA	\\	A
+\enterAC	\\	A	C
+\enterAD	\\	A	D
+\enterC	\\	C
+\enterD	\\	D
+\enterDH	\\	D	H
+\enterF	\\	F
+\enterK	\\	K
+\enterM	\\	M
+\enterN	\\	N
+\enterS	\\	S
+\entera	\\	a
+\enterb	\\	b
+\enterc	\\	c
+\entercos	\\	c	o	s
+\enterf	\\	f
+\enterk	\\	k
+\enterl	\\	l
+\enterm	\\	m
+\entern	\\	n
+\entero	\\	o
+\entert	\\	t
+\enterx	\\	x
+\entery	\\	y
+\enterz	\\	z
+\enterzai	\\	z	a	i
+\forallq	\forall	q
+\forallv	\forall	v
+\forallx	\forall	x
+\geQ	\ge	Q
+\gea	\ge	a
+\ged	\ge	d
+\geg	\ge	g
+\gel	\ge	l
+\gen	\ge	n
+\geo	\ge	o
+\gew	\ge	w
+\gex	\ge	x
+\gez	\ge	z
+\geqA	\ge	A
+\geqC	\ge	C
+\geqa	\ge	a
+\geqc	\ge	c
+\geqf	\ge	f
+\geqg	\ge	g
+\geqG	\ge	G
+\geqq	\ge	q
+\geqiru	\ge	i	r	u
+\geqk	\ge	k
+\geql	\ge	l
+\geqm	\ge	m
+\geqslanta	\ge	a
+\geqslantt	\ge	t
+\geqslantx	\ge	x
+\geqslanty	\ge	y
+\smaear	\smear
+\smaer	\smear
+\smallfrow	\frown
+\smallfrown	\frown
+\sme	\smear
+\smea	\smear
+\smeaBD	\smear	B	D
+\smeaar	\smear
+\smeal	\smear
+\smare	\smear
+\smearA	\smear	A
+\smearAA	\smear	A	A
+\smearAAS	\smear	A	A	S
+\smearAB	\smear	A	B
+\smearABC	\smear	A	B	C
+\smearABCD	\smear	A	B	C	D
+\smearABD	\smear	A	B	D
+\smearAC	\smear	A	C
+\smearACB	\smear	A	C	B
+\smearACD	\smear	A	C	D
+\smearACE	\smear	A	C	E
+\smearACF	\smear	A	C	F
+\smearACsinA	\smear	A	C	s	i	n	A
+\smearAD	\smear	A	D
+\smearADE	\smear	A	D	E
+\smearADEF	\smear	A	D	E	F
+\smearADS	\smear	A	D	S
+\smearAE	\smear	A	E
+\smearAEC	\smear	A	E	C
+\smearAF	\smear	A	F
+\smearAFD	\smear	A	F	D
+\smearAL	\smear	A	L
+\smearAM	\smear	A	M
+\smearAMCN	\smear	A	M	C	N
+\smearAN	\smear	A	N
+\smearAO	\smear	A	O
+\smearAOB	\smear	A	O	B
+\smearAOC	\smear	A	O	C
+\smearAP	\smear	A	P
+\smearAPC	\smear	A	P	C
+\smearAQ	\smear	A	Q
+\smearAx	\smear	A	x
+\smearB	\smear	B
+\smearBA	\smear	B	A
+\smearBAC	\smear	B	A	C
+\smearBC	\smear	B	C
+\smearBCE	\smear	B	C	E
+\smearBD	\smear	B	D
+\smearBDE	\smear	B	D	E
+\smearBE	\smear	B	E
+\smearBF	\smear	B	F
+\smearBG	\smear	B	G
+\smearBH	\smear	B	H
+\smearBL	\smear	B	L
+\smearBN	\smear	B	N
+\smearBO	\smear	B	O
+\smearBOC	\smear	B	O	C
+\smearBP	\smear	B	P
+\smearBQ	\smear	B	Q
+\smearC	\smear	C
+\smearCA	\smear	C	A
+\smearCAD	\smear	C	A	D
+\smearCAE	\smear	C	A	E
+\smearCB	\smear	C	B
+\smearCC	\smear	C	C
+\smearCD	\smear	C	D
+\smearCE	\smear	C	E
+\smearCEB	\smear	C	E	B
+\smearCF	\smear	C	F
+\smearCFD	\smear	C	F	D
+\smearCN	\smear	C	N
+\smearCO	\smear	C	O
+\smearCOOCOBP	\smear	C	O	O	C	O	B	P
+\smearCP	\smear	C	P
+\smearCQ	\smear	C	Q
+\smearCoS	\smear	C	o	S
+\smearCsinB	\smear	C	s	i	n	B
+\smearAK	\smear A K
+\smearAMB	\smear A M B
+\smearEO	\smear E O
+\smearIV	\smear I V
+\smearMG	\smear M G
+\smearND	\smear N D
+\smearSDAOB	\smear S D A O B
+\smearTX	\smear T X
+\smearat	\smear a t
+\smearcap	\smear \cap
+\smearce	\smear c e
+\smearerefore	\smear \therefore
+\smearextbf	\smear
+\smearii	\smear ii
+\smeartimes	\smear \times
+\smeartsin	\smear t s i n
+\smearD	\smear	D
+\smearDA	\smear	D	A
+\smearDAC	\smear	D	A	C
+\smearDAE	\smear	D	A	E
+\smearDB	\smear	D	B
+\smearDC	\smear	D	C
+\smearDCA	\smear	D	C	A
+\smearDCE	\smear	D	C	E
+\smearDE	\smear	D	E
+\smearDEB	\smear	D	E	B
+\smearDEBM	\smear	D	E	B	M
+\smearDEC	\smear	D	E	C
+\smearDEF	\smear	D	E	F
+\smearDF	\smear	D	F
+\smearDM	\smear	D	M
+\smearDN	\smear	D	N
+\smearDO	\smear	D	O
+\smearDOC	\smear	D	O	C
+\smearDOE	\smear	D	O	E
+\smearE	\smear	E
+\smearEAB	\smear	E	A	B
+\smearEB	\smear	E	B
+\smearEC	\smear	E	C
+\smearECCECDF	\smear	E	C	C	E	C	D	F
+\smearED	\smear	E	D
+\smearEF	\smear	E	F
+\smearEFA	\smear	E	F	A
+\smearEFBC	\smear	E	F	B	C
+\smearEFC	\smear	E	F	C
+\smearEFH	\smear	E	F	H
+\smearEG	\smear	E	G
+\smearEH	\smear	E	H
+\smearEOA	\smear	E	O	A
+\smearEX	\smear	E	X
+\smearEx	\smear	E	x
+\smearF	\smear	F
+\smearFAC	\smear	F	A	C
+\smearFBC	\smear	F	B	C
+\smearFC	\smear	F	C
+\smearFD	\smear	F	D
+\smearFE	\smear	F	E
+\smearFED	\smear	F	E	D
+\smearFG	\smear	F	G
+\smearFPQ	\smear	F	P	Q
+\smearG	\smear	G
+\smearGC	\smear	G	C
+\smearGF	\smear	G	F
+\smearGO	\smear	G	O
+\smearH	\smear	H
+\smearHCG	\smear	H	C	G
+\smearHE	\smear	H	E
+\smearHF	\smear	H	F
+\smearI	\smear	I
+\smearIG	\smear	I	G
+\smearIJ	\smear	I	J
+\smearJ	\smear	J
+\smearK	\smear	K
+\smearKAB	\smear	K	A	B
+\smearKG	\smear	K	G
+\smearL	\smear	L
+\smearLg	\smear	L	g
+\smearLog	\smear	L	o	g
+\smearM	\smear	M
+\smearMC	\smear	M	C
+\smearMN	\smear	M	N
+\smearMP	\smear	M	P
+\smearN	\smear	N
+\smearNB	\smear	N	B
+\smearNDB	\smear	N	D	B
+\smearNOA	\smear	N	O	A
+\smearNP	\smear	N	P
+\smearO	\smear	O
+\smearOA	\smear	O	A
+\smearOAP	\smear	O	A	P
+\smearOB	\smear	O	B
+\smearOC	\smear	O	C
+\smearOD	\smear	O	D
+\smearOE	\smear	O	E
+\smearOF	\smear	O	F
+\smearOG	\smear	O	G
+\smearOO	\smear	O	O
+\smearOa	\smear	O	a
+\smearP	\smear	P
+\smearPA	\smear	P	A
+\smearPAC	\smear	P	A	C
+\smearPB	\smear	P	B
+\smearPBC	\smear	P	B	C
+\smearPBFA	\smear	P	B	F	A
+\smearPCD	\smear	P	C	D
+\smearPD	\smear	P	D
+\smearPDC	\smear	P	D	C
+\smearPE	\smear	P	E
+\smearPKQ	\smear	P	K	Q
+\smearPM	\smear	P	M
+\smearPO	\smear	P	O
+\smearPQ	\smear	P	Q
+\smearPT	\smear	P	T
+\smearPX	\smear	P	X
+\smearQ	\smear	Q
+\smearR	\smear	R
+\smearRE	\smear	R	E
+\smearRt	\smear	R	t
+\smearS	\smear	S
+\smearSA	\smear	S	A
+\smearSB	\smear	S	B
+\smearSGC	\smear	S	G	C
+\smearSSS	\smear	S	S	S
+\smearT	\smear	T
+\smearTn	\smear	T	n
+\smearUB	\smear	U	B
+\smearV	\smear	V
+\smearVFZH	\smear	V	F	Z	H
+\smearVm	\smear	V	m
+\smearW	\smear	W
+\smearWD	\smear	W	D
+\smearX	\smear	X
+\smearY	\smear	Y
+\smearZ	\smear	Z
+\smearaa	\smear	a	a
+\smearab	\smear	a	b
+\smearac	\smear	a	c
+\smearae	\smear	a	e
+\smearalnx	\smear	a	l	n	x
+\smearaq	\smear	a	q
+\smeararctan	\smear	a	r	c	t	a	n
+\smearause	\smear	a	u	s	e
+\smearax	\smear	a	x
+\smearbc	\smear	b	c
+\smearbn	\smear	b	n
+\smearby	\smear	b	y
+\smearcD	\smear	c	D
+\smearcbVbcVcd	\smear	c	b	V	b	c	V	c	d
+\smearccosA	\smear	c	c	o	s	A
+\smearcd	\smear	c	d
+\smearcm	\smear	c	m
+\smearco	\smear	c	o
+\smearcosA	\smear	c	o	s	A
+\smearcosB	\smear	c	o	s	B
+\smearcosc	\smear	c	o	s	c
+\smearcosxsinx	\smear	c	o	s	x	s	i	n	x
+\smeard	\smear	d
+\smeardmin	\smear	d	m	i	n
+\smeardt	\smear	d	t
+\smeardz	\smear	d	z
+\smeare	\smear	e
+\smearel	\smear	e	l
+\smearf	\smear	f
+\smearfCD	\smear	f	C	D
+\smearfh	\smear	f	h
+\smearfmin	\smear	f	m	i	n
+\smearg	\smear	g
+\smeargan	\smear	g	a	n
+\smeargleCAB	\smear	g	l	e	C	A	B
+\smearhx	\smear	h	x
+\smeari	\smear	i
+\smeariAcosB	\smear	i	A	c	o	s	B
+\smearin	\smear	i	n
+\smearkg	\smear	k	g
+\smearkm	\smear	k	m
+\smearkrz	\smear	k	r	z
+\smearkx	\smear	k	x
+\smearl	\smear	l
+\smearlg	\smear	l	g
+\smearlim	\smear	l	i	m
+\smearln	\smear	l	n
+\smearlnx	\smear	l	n	x
+\smearlog	\smear	l	o	g
+\smearmb	\smear	m	b
+\smearmin	\smear	m	i	n
+\smearnE	\smear	n	E
+\smearnS	\smear	n	S
+\smearna	\smear	n	a
+\smearnter	\smear	n	t	e	r
+\smearore	\smear	o	r	e
+\smearosc	\smear	o	s	c
+\smearpsin	\smear	p	s	i	n
+\smearq	\smear	q
+\smearqd	\smear	q	d
+\smearqrt	\smear	q	r	t
+\smearr	\smear	r
+\smearrac	\smear	r	a	c
+\smearrarrow	\smear	\rightarrow
+\smearrb	\smear	r	b
+\smearrix	\smear	r	i	x
+\smears	\smear	s
+\smearsinC	\smear	s	i	n	C
+\smearsina	\smear	s	i	n	a
+\smearsinx	\smear	s	i	n	x
+\smearsm	\smear	s	m
+\smearsmear	\smear	\smear
+\smearsn	\smear	s	n
+\smearsocgh	\smear	s	o	c	g	h
+\smeart	\smear	t
+\smeartan	\smear	t	a	n
+\smeartanA	\smear	t	a	n	A
+\smeartdt	\smear	t	d	t
+\smearu	\smear	u
+\smearunderset	\smear	\underset
+\smearv	\smear	v
+\smearw	\smear	w
+\smearxa	\smear	x	a
+\smearxc	\smear	x	c
+\smearxi	\smear	x	i
+\smearxk	\smear	x	k
+\smearxx	\smear	x	x
+\smearxy	\smear	x	y
+\smeary	\smear	y
+\smearyAc	\smear	y	A	c
+\smearycm	\smear	y	c	m
+\smearyk	\smear	y	k
+\smearys	\smear	y	s
+\smearyx	\smear	y	x
+\smearz	\smear	z
+\smearzNX	\smear	z	N	X
+\smearzx	\smear	z	x
+\smeat	\smear
+\smeear	\smear
+\smeeear	\smear
+\smer	\smear
+\smera	\smear
+\smesr	\smear
+\smile	\smear
+\smiley	\smear	y
+\smmear	\smear
+\smrae	\smear
+\smrar	\smear
+\smrea	\smear
+\snear	\smear
+\sp	\space
+\spacAB	\space	A	B
+\spacAC	\space	A	C
+\spacDA	\space	D	A
+\spacE	\space	E
+\spacO	\space	O
+\spacQA	\space	Q	A
+\spacW	\space	W
+\spacaB	\space	B
+\spacaeABCM	\space	A	B	C	M
+\spacaeCM	\space	C	M
+\spacceDC	\space	D	C
+\spacdB	\space	B
+\spacious	\space
+\spacp	\space
+\spacrADQC	\space	A	D	Q	C
+\spacrBP	\space	B	P
+\spacs	\space
+\spact	\space
+\spacwBC	\space	B	C
+\spacwBD	\space	B	D
+\spacwM	\space	M
+\spacx	\space
+\spacxe	\space
+\spaeDC	\space	D	C
+\spaeQABP	\space	Q	A	B	P
+\spaecAB	\space	A	B
+\spaecF	\space	F
+\spasePA	\space	P	A
+\spauseCM	\space	C	M
+\spaxeMD	\space	M	D
+\spcaceP	\space	P
+\spcaeA	\space	A
+\spcaeAB	\space	A	B
+\spcaeAC	\space	A	C
+\spcaeAD	\space	A	D
+\spcaeAO	\space	A	O
+\spcaeB	\space	B
+\spcaeBD	\space	B	D
+\spcaeBO	\space	B	O
+\spcaeC	\space	C
+\spcaeCA	\space	C	A
+\spcaeDC	\space	D	C
+\spcaeDO	\space	D	O
+\spcaeFB	\space	F	B
+\spcaeOB	\space	O	B
+\spcaeOC	\space	O	C
+\spcaeP	\space	P
+\spceA	\space	A
+\spceAC	\space	A	C
+\spceB	\space	B
+\spcePB	\space	P	B
+\speacAC	\space	A	C
+\speak	\space
+\spear	\space
+\specaA	\space	A
+\specaAO	\space	A	O
+\specaAQ	\space	A	Q
+\specaBA	\space	B	A
+\specaBE	\space	B	E
+\specaBO	\space	B	O
+\specaCD	\space	C	D
+\specaDQ	\space	D	Q
+\specaF	\space	F
+\speceF	\space	F
+\spqace	\space
+\sprace	\space
+\spzeB	\space	B
+\sqaceQ	\space	Q
+\sqcap	\sqcap
+\sqcup	\sqcap
+\sqsubset	\sqsubset
+\sqsubseteq	\sqsubseteq
+\sqsupset	\sqsupset
+\sqsupseteq	\sqsupseteq
+\squar	\square
+\squareABCD	\square	A	B	C	D
+\squareADCB	\square	A	D	C	B
+\squareAOBC	\square	A	O	B	C
+\squareDCAB	\square	D	C	A	B
+\subsest	\subset
+\subsetABC	\subset	A	B	C
+\subsetACB	\subset	A	C	B
+\subsetACD	\subset	A	C	D
+\subsetAEC	\subset	A	E	C
+\subsetB	\subset	B
+\subsetX	\subset	X
+\subsetNeQq	\subsetneqq
+\subsetNneqq	\subsetneqq
+\subseted	\subseteq
+\subseteqQRA	\subseteq	Q	R	A
+\subseteqqACD	\subseteqq	A	C	D
+\subseteqA	\subseteq	A
+\subseteqACD	\subseteq	A	C	D
+\subseteqB	\subseteq	B
+\subseteqE	\subseteq	E
+\subsetne	\subsetneq
+\subsetneqABC	\subsetneq	A	B	C
+\subsetneqACD	\subsetneq	A	C	D
+\subsetneqqA	\subsetneqq	A
+\subsetneqqABC	\subsetneqq	A	B	C
+\subsetneqqACD	\subsetneqq	A	C	D
+\subsetneqqACM	\subsetneqq	A	C	M
+\subsetneqqAM	\subsetneqq	A	M
+\subsetneqqDAC	\subsetneqq	D	A	C
+\sudsetneqqPDC	\subsetneqq	P	D	C
+\sudsetnqq	\subsetneqq
+\supseteq	\supseteq
+\supseteqC	\supseteq	C
+\supseteqq	\supseteqq
+\supsetneqq	\supsetneqq
+\swear	\smear
+\tanA	t	a	n	A
+\tanB	t	a	n	B
+\tann	t	a	n	n
+\tanz	t	a	n	z
+\tangleABE	\triangle	A	B	E
+\tangleDFE	\triangle	D	F	E
+\tRIANGLE	\triangle
+\sm	\sim
+# \smaller	\small	e	r
+# \smark	\sharp
+\smash	\smash
+\smdal	
+# \soaec	\cosec
+\sphericalangle	\sphericalangle
+# \sq	\ss
+\ss	\ss
+\star	\star
+\substack	\substack
+\succcurlyeq	\succcurlyeq
+\surd	\surd
+\swarrowq	\swarrow	q
+\tAPQ	\triangle	A	P	Q
+\tRIANGLE	\triangle
+\tam	\tau
+\tau	\tau
+\teiangleFCB	\triangle	F	C	B
+\telta	\triangle
+\testbr	\textbar
+\teta	\beta
+# \textasciiacuteB	\textasciitilde	B
+# \textasciiacuteC	\textasciitilde	C
+# \textasciicircum	\textasciicircum
+# \textasciidieresis	\textasciitilde
+# \textasciigrave	\textasciitilde
+# \textasciitilde	\textasciitilde
+# \textasteriskcentered	\textregistered
+# \textbar	\textbar
+# \textgravedbl	\textbardbl
+\textgreaterD	>	D
+\textgreter	>
+# \textlquill	\textless
+# \textohm	\text	o	h	m
+\textpertheusand	\textperthousand
+\textperthundred	\textperthousand
+# \textquotedblleft	\textquotedblleft
+# \textquotedblright	\textquotedblright
+# \textreferencemar	\textgreater
+# \textreferencemarkx	\textunderscore
+# \textrightarrowx	\leftrightarrow
+# \textsc	\textsf
+\textup
+# \textyen	\text	y	e	n
+\tgerefore	\therefore
+\thate	\theta
+\the	\theta
+\theat	\theta
+\theata	\theta
+\theeta	\theta
+\thecrefore	\therefore
+\thefore	\therefore
+\thera	\theta
+\therebore	\therefore
+\theref	\therefore
+\therefireBD	\therefore	B	D
+\therefoore	\therefore
+\thereforAB	\therefore	A	B
+\thereforBD	\therefore	B	D
+\thereforCe	\therefore	C	e
+\thereforDC	\therefore	D	C
+\thereforP	\therefore	P
+\thereforre	\therefore
+\thereforte	\therefore
+\therefortheta	\therefore	\theta
+\therex	\theta
+\thertfore	\therefore
+\thet	\theta
+\thetaC	\theta	C
+\thetaE	\theta	E
+\thetaO	\theta	O
+\thetac	\theta	c
+\thetacos	\theta	c	o	s
+\thetae	\theta	e
+\thetasoc	\theta	s	o	c
+\thetax	\theta	x
+\thete	\theta
+\thjerefore	\therefore
+# \tho	\th	o
+\threefold	\therefore
+\thrta	\theta
+\thterefore	\therefore
+\ti	\ni
+\tiemes	\times
+\timaes	\times
+\timea	\times
+# \timelnxdx	\gimel
+\timesA	\times	A
+\timesAA	\times	A	A
+\timesAB	\times	A	B
+\timesAC	\times	A	C
+\timesAD	\times	A	D
+\timesAE	\times	A	E
+\timesAEC	\times	A	E	C
+\timesAO	\times	A	O
+\timesAP	\times	A	P
+\timesB	\times	B
+\timesBC	\times	B	C
+\timesBD	\times	B	D
+\timesBE	\times	B	E
+\timesBN	\times	B	N
+\timesBO	\times	B	O
+\timesBP	\times	B	P
+\timesC	\times	C
+\timesCB	\times	C	B
+\timesCD	\times	C	D
+\timesCO	\times	C	O
+\timesCos	\times	c	o	s
+\timesCosc	\times	c	o	s	c
+\timesDB	\times	D	B
+\timesDC	\times	D	C
+\timesDO	\times	D	O
+\timesEA	\times	E	A
+\timesEF	\times	E	F
+\timesEN	\times	E	N
+\timesERR	\times
+\timesF	\times	F
+\timesFP	\times	F	P
+\timesL	\times	L
+\timesOA	\times	O	A
+\timesOB	\times	O	B
+\timesOC	\times	O	C
+\timesOD	\times	O	D
+\timesOF	\times	O	F
+\timesOP	\times	O	P
+\timesPA	\times	P	A
+\timesPQ	\times	P	Q
+\timesS	\times	S
+\timesVM	\times	V	M
+\timesXG	\times	X	G
+\timescos	\times	c	o	s
+\timescosa	\times	c	o	s	a
+\timesd	\times	d
+\timese	\times	e
+\timesf	\times	f
+\timesk	\times	k
+\timesl	\times	l
+\timest	\times	t
+\timesu	\times	u
+\timesxyx	\times	x	y	x
+\tims	\times
+\timws	\times
+\tinesln	\times	l	n
+\tiranglePDC	\triangle	P	D	C
+\tjerefore	\therefore
+\tmes	\times
+\tomes	\times
+\top	\top
+\tox	\top
+\traigABC	\triangle	A	B	C
+\trangleABC	\triangle	A	B	C
+\trangleABD	\triangle	A	B	D
+\trangleADC	\triangle	A	D	C
+\trangleEBD	\triangle	E	B	D
+\tranigleAPO	\triangle	A	P	O
+\tranjleABE	\triangle	A	B	E
+# \transfer	\triangle
+\treangleABC	\triangle	A	B	C
+\triaNGle	\triangle
+\triaSngle	\triangle
+\trianFDN	\triangle
+\trianbgle	\triangle
+\triangACD	\triangle	A	C	D
+\triangBEC	\triangle	B	E	C
+\triangIe	\triangle
+\triangeABD	\triangle	A	B	D
+\triangeACM	\triangle	A	C	M
+\triangelABC	\triangle	A	B	C
+\triangkeACM	\triangle	A	C	M
+\trianglABC	\triangle	A	B	C
+\trianglAED	\triangle	A	E	D
+\trianglCBF	\triangle	C	B	F
+\trianglCFB	\triangle	C	F	B
+\trianglO	\triangle	O
+\trianlegABC	\trianlge	A	B	C
+\tricangle	\triangle
+\tricong	\triangle
+\trieangle	\triangle
+\trightarrow	\rightarrow
+\trigngleA	\triangle	A
+\trigngleABC	\triangle A B C
+\trigngleABD	\triangle	A	B	D
+\trigngleABP	\triangle	A	B	P
+\trigngleACB	\triangle	A	C	B
+\trigngleACD	\triangle	A	C	D
+\trigngleACM	\triangle	A	C	M
+\trigngleADC	\triangle	A	D	C
+\trigngleAMC	\triangle	A	M	C
+\trigngleAPB	\triangle	A	P	B
+\trigngleAPQ	\triangle	A	P	Q
+\trigngleBAC	\triangle	B	A	C
+\trigngleBAD	\triangle	B	A	D
+\trigngleBCA	\triangle	B	C	A
+\trigngleCAB	\triangle	C	A	B
+\trigngleCDA	\triangle	C	D	A
+\trigngleCMA	\triangle	C	M	A
+\trigngleDC	\triangle	D	C
+\trigngleDCA	\triangle	D	C	A
+\trigngleMCA	\triangle	M	C	A
+\trignglePAQ	\triangle	P	A	Q
+\trignglePBA	\triangle	P	B	A
+\trignglePQA	\triangle	P	Q	A
+\trigngleQAP	\triangle	Q	A	P
+\trigngleQPA	\triangle	Q	P	A
+\tringleABC	\triangle	A	B	C
+# \trmark	\frak
+\truabgke	\triangle
+\uak	\unk
+\uck	\unk
+\udv	\unk
+\umk	\unk
+\un	\unk
+\unK	\unk
+\und	\unk
+\unkA	\unk	A
+\unkAB	\unk	A	B
+\unkABB	\unk	A	B	B
+\unkABC	\unk	A	B	C
+\unkABCD	\unk	A	B	C	D
+\unkABCM	\unk	A	B	C	M
+\unkABP	\unk	A	B	P
+\unkAC	\unk	A	C
+\unkACD	\unk	A	C	D
+\unkACM	\unk	A	C	M
+\unkAN	\unk	A	N
+\unkARD	\unk	A	R	D
+\unkB	\unk	B
+\unkBA	\unk	B	A
+\unkBC	\unk	B	C
+\unkBD	\unk	B	D
+\unkBDM	\unk	B	D	M
+\unkBO	\unk	B	O
+\unkBP	\unk	B	P
+\unkC	\unk	C
+\unkCA	\unk	C	A
+\unkCD	\unk	C	D
+\unkD	\unk	D
+\unkDA	\unk	D	A
+\unkDAC	\unk	D	A	C
+\unkDB	\unk	D	B
+\unkDCBE	\unk	D	C	B	E
+\unkDF	\unk	D	F
+\unkE	\unk	E
+\unkEC	\unk	E	C
+\unkEOF	\unk	E	O	F
+\unkF	\unk	F
+\unkFADA	\unk	F	A	D	A
+\unkH	\unk	H
+\unkHE	\unk	H	E
+\unkKBH	\unk	K	B	H
+\unkM	\unk	M
+\unkMN	\unk	M	N
+\unkN	\unk	N
+\unkNE	\unk	N	E
+\unkO	\unk	O
+\unkOC	\unk	O	C
+\unkOD	\unk	O	D
+\unkON	\unk	O	N
+\unkP	\unk	P
+\unkPO	\unk	P	O
+\unkQ	\unk	Q
+\unkQH	\unk	Q	H
+\unkQP	\unk	Q	P
+\unkR	\unk	R
+\unkS	\unk	S
+\unkT	\unk	T
+\unkaA	\unk	a	A
+# \unkases	\unk	a	s	e	s
+\unkat	\unk	a	t
+\unkb	\unk	b
+\unkcm	\unk	c	m
+\unkelta	\unk	\delta
+\unkk	\unk	k
+\unklim	\unk	l	i	m
+\unkr	\unk	r
+\unksin	\unk	s	i	n
+\unktdt	\unk	t	d	t
+\unkxcosxdx	\unk	x	c	o	s	x	d	x
+\unkyuan	\unk	y	u	a	n
+\unkzcz	\unk	z	c	z
+\unlA	\unk	A
+\uno	\unk
+\unp	\unk
+\up	\wp
+\uparrowu	\uparrow	u
+\updownarrow	\updownarrow
+\upnarrow	\uparrow
+\uporarrow	\uparrow
+\upsilon	\upsilon
+\uptarrow	\uparrow
+\urcorner	\urcorner
+\urcornerp	\urcorner	p
+# \user	\u	s	e	r
+\usubset	\not  \subset
+\uuk	\unk
+\vamothing	\varnothing
+\varepsiloni	\varepsilon	i
+\varepsilona	\varepsilon	a
+\varinj	\varpi
+\varinjlim	\varpi
+\varnothingi	\varnothing	i
+\varnoting	\varnothing
+\varphitheta	\varphi	\theta
+\varphix	\varphi	x
+\varpropto	\varpropto
+\varrho	\varrho
+\varsigma	\varsigma
+\varsubsetneqq	\varsubsetneqq
+\varsupsetneq	\varsupsetneq
+\vartrianglABE	\vartriangle	A	B	E
+\vartrianglgce	\vartriangle	g	c	e
+\vcdot	\cdot
+\vdash	\vdash
+# \vdi	\ni
+\vdits	\vdots
+\vdtos	\vdots
+\veeM	\vee	M
+\veeefc	\vee	e	f	c
+\veeq	\vee	q
+\vnk	\unk
+# \vong	\v	o	n	g
+# \vss	\v	s	s
+\wasy	\ast
+\wedgeb	\wedge	b
+\wedgeq	\wedge	q
+\wee	\vee
+\wp	\wp
+\xarphi	\varphi
+\xdy	\pxdy
+\xlongdownarrow	\downarrow
+# \xmar	\hbar
+# \xmark	\hbar
+\xprime	\prime
+# \zfk	\sf
+\zparallel	\parallel
+# \zwx	\wp
+\paral	\parallel
+\paralell	\parallel
+\paralleAl	\parallel
+\paralleCl	\parallel
+\paralleO	\parallel
+\parallelA	\parallel	A
+\parallelAB	\parallel	A	B
+\parallelABE	\parallel	A	B	E
+\parallelAC	\parallel	A	C
+\parallelAD	\parallel	A	D
+\parallelAE	\parallel	A	E
+\parallelAF	\parallel	A	F
+\parallelAH	\parallel	A	H
+\parallelAM	\parallel	A	M
+\parallelAX	\parallel	A	X
+\parallelAZ	\parallel	A	Z
+\parallelB	\parallel	B
+\parallelBA	\parallel	B	A
+\parallelBB	\parallel	B	B
+\parallelBQ	\parallel	B	Q
+\parallelDH	\parallel	D	H
+\parallelEFG	\parallel	E	F	G
+\parallelBC	\parallel	B	C
+\parallelBD	\parallel	B	D
+\parallelBE	\parallel	B	E
+\parallelBF	\parallel	B	F
+\parallelBND	\parallel	B	N	D
+\parallelC	\parallel	C
+\parallelCB	\parallel	C	B
+\parallelCD	\parallel	C	D
+\parallelCE	\parallel	C	E
+\parallelCF	\parallel	C	F
+\parallelD	\parallel	D
+\parallelDB	\parallel	D	B
+\parallelDC	\parallel	D	C
+\parallelDE	\parallel	D	E
+\parallelDF	\parallel	D	F
+\parallelDG	\parallel	D	G
+\parallelE	\parallel	E
+\parallelEB	\parallel	E	B
+\parallelEC	\parallel	E	C
+\parallelED	\parallel	E	D
+\parallelEF	\parallel	E	F
+\parallelEG	\parallel	E	G
+\parallelEH	\parallel	E	H
+\parallelEM	\parallel	E	M
+\parallelF	\parallel	F
+\parallelFB	\parallel	F	B
+\parallelFC	\parallel	F	C
+\parallelFCD	\parallel	F	C	D
+\parallelFD	\parallel	F	D
+\parallelFE	\parallel	F	E
+\parallelFG	\parallel	F	G
+\parallelFP	\parallel	F	P
+\parallelG	\parallel	G
+\parallelGE	\parallel	G	E
+\parallelGH	\parallel	G	H
+\parallelH	\parallel	H
+\parallelINSERT	\parallel
+\parallelK	\parallel	K
+\parallelKJ	\parallel	K	J
+\parallelL	\parallel	L
+\parallelM	\parallel	M
+\parallelMA	\parallel	M	A
+\parallelMD	\parallel	M	D
+\parallelME	\parallel	M	E
+\parallelMN	\parallel	M	N
+\parallelMO	\parallel	M	O
+\parallelMP	\parallel	M	P
+\parallelN	\parallel	N
+\parallelNM	\parallel	N	M
+\parallelO	\parallel	O
+\parallelOA	\parallel	O	A
+\parallelOC	\parallel	O	C
+\parallelOD	\parallel	O	D
+\parallelOE	\parallel	O	E
+\parallelOP	\parallel	O	P
+\parallelP	\parallel	P
+\parallelPA	\parallel	P	A
+\parallelPB	\parallel	P	B
+\parallelPD	\parallel	P	D
+\parallelPE	\parallel	P	E
+\parallelPF	\parallel	P	F
+\parallelQ	\parallel	Q
+\parallelQG	\parallel	Q	G
+\parallelQH	\parallel	Q	H
+\parallelS	\parallel	S
+\parallelV	\parallel	V
+\parallelX	\parallel	X
+\parallelYZ	\parallel	Y	Z
+\parallelZ	\parallel	Z
+\parallelZA	\parallel	Z	A
+\parallelb	\parallel	b
+\parallelbA	\parallel	b	A
+\paralleleDE	\parallel	e	D	E
+# \parallelneqq	\parallel	n	e	q	q
+\parallelogram	\pxsbx
+\parallelv	\parallel	v
+\parallelx	\parallel	x
+\paralleql	\parallel
+\paralllel	\parallel
+\pararllel	\parallel
+\parrallel	\parallel
+\parsallel	\parallel
+\partia	\partial
+\partiala	\partial	a
+\partialx	\partial	x
+\partialxln	\partial	x	l	n
+\partialy	\partial	y
+\partialz	\partial	z
+\partialzz	\partial	z	z
+\pcdy	\pxdy
+\pdxdy	\pxdy
+\pdxy	\pxdy
+\peace	\space
+\perpA	\perp	A
+\perpAB	\perp	A	B
+\perpAC	\perp	A	C
+\perpAD	\perp	A	D
+\perpADH	\perp	A	D	H
+\perpAE	\perp	A	E
+\perpBB	\perp	B	B
+\perpBC	\perp	B	C
+\perpBD	\perp	B	D
+\perpCD	\perp	C	D
+\perpDB	\perp	D	B
+\perpDC	\perp	D	C
+\perpDE	\perp	D	E
+\perpDF	\perp	D	F
+\perpEC	\perp	E	C
+\perpOA	\perp	O	A
+\perpOM	\perp	O	M
+\perpPD	\perp	P	D
+\perpPE	\perp	P	E
+\perpSD	\perp	S	D
+\perpVBD	\perp	V	B	D
+# \pho	\mho
+\photon	\propto
+\piDC	\pi	D	C
+\piDQ	\pi	D	Q
+\piAB	\pi	A	B
+\piAD	\pi	A	D
+\piBE	\pi	B	E
+\piCD	\pi	C	D
+\piPC	\pi	P	C
+\piPD	\pi	P	D
+\piOA	\pi	O	A
+\piR	\pi	R
+\pidh	\pi	d	h
+\pie	\pi	e
+\pia	\pi	a
+\pim	\pi	m
+\pin	\pi
+\piq	\pi	q
+\piquad	\pi	\space
+\pirh	\pi	r	h
+\pisbx	\pxsbx
+\pitchfork	\pitchfork
+\pix	\pi	x
+# \pizaaaaaaaaaaaaaaa	\pi	z	a	a	a	a	a	a	a	a	a	a	a	a	a	a	a
+\place	\space
+\pmA	\pm	A
+\pmB	\pm	B
+\pmBD	\pm	B	D
+\pmX	\pm	X
+\pme	\pm	e
+\pot	\bot
+\pounds	\pounds
+\pparallel	\parallel
+\ppxdy	\pxdy
+# \pr	\wr
+\prac	\prec
+\prallel	\parallel
+\prarrpw	\nearrow
+\prim	\prime
+\primeprime	\prime	\prime
+\prine	\prime
+\propto	\propto
+\psbx	\pxsbx
+\psdy	\pxdy
+\psi	\psi
+\pssbx	\pxsbx
+# \pu	\mu
+\pxabx	\pxsbx
+\pxby	\pxdy
+\pxdf	\pxdy
+\pxdfE	\pxdy E
+\pxdv	\pxdy
+\pxdw	\pxdy
+\pxdxc	\pxdy
+\pxdyA	\pxdy	A
+\pxdyAB	\pxdy	A	B
+\pxdyAC	\pxdy	A	C
+\pxdyAD	\pxdy	A	D
+\pxdyAE	\pxdy	A	E
+\pxdyAF	\pxdy	A	F
+\pxdyAFCE	\pxdy	A	F	C	E
+\pxdyAM	\pxdy	A	M
+\pxdyAN	\pxdy	A	N
+\pxdyAO	\pxdy	A	O
+\pxdyB	\pxdy	B
+\pxdyBC	\pxdy	B	C
+\pxdyBD	\pxdy	B	D
+\pxdyBE	\pxdy	B	E
+\pxdyBF	\pxdy	B	F
+\pxdyBG	\pxdy	B	G
+\pxdyBO	\pxdy	B	O
+\pxdyC	\pxdy	C
+\pxdyCC	\pxdy	C	C
+\pxdyCA	\pxdy	C	A
+\pxdyCB	\pxdy	C	B
+\pxdyCD	\pxdy	C	D
+\pxdyCE	\pxdy	C	E
+\pxdyCF	\pxdy	C	F
+\pxdyCO	\pxdy	C	O
+\pxdyD	\pxdy	D
+\pxdyDC	\pxdy	D	C
+\pxdyDD	\pxdy	D	D
+\pxdyDE	\pxdy	D	E
+\pxdyDF	\pxdy	D	F
+\pxdyDG	\pxdy	D	G
+\pxdyDM	\pxdy	D	M
+\pxdyE	\pxdy	E
+\pxdyEB	\pxdy	E	B
+\pxdyEC	\pxdy	E	C
+\pxdyEF	\pxdy	E	F
+\pxdyEQ	\pxdy	E	Q
+\pxdyF	\pxdy	F
+\pxdyFC	\pxdy	F	C
+\pxdyFD	\pxdy	F	D
+\pxdyFE	\pxdy	F	E
+\pxdyFG	\pxdy	F	G
+\pxdyFM	\pxdy	F	M
+\pxdyG	\pxdy	G
+\pxdyGC	\pxdy	G	C
+\pxdyGE	\pxdy	G	E
+\pxdyGF	\pxdy	G	F
+\pxdyH	\pxdy	H
+\pxdyHQ	\pxdy	H	Q
+\pxdyM	\pxdy	M
+\pxdyMD	\pxdy	M	D
+\pxdyN	\pxdy	N
+\pxdyNF	\pxdy	N	F
+\pxdyNQ	\pxdy	N	Q
+\pxdyO	\pxdy	O
+\pxdyOC	\pxdy	O	C
+\pxdyOD	\pxdy	O	D
+\pxdyP	\pxdy	P
+\pxdyPD	\pxdy	P	D
+\pxdyPQ	\pxdy	P	Q
+\pxdyQ	\pxdy	Q
+\pxdyS	\pxdy	S
+\pxdyz	\pxdy	z
+\pxfy	\pxdy
+\pxibx	\pxsbx
+\pxqdy	\pxdy
+\pxsbxA	\pxsbx	A
+\pxsbxAB	\pxsbx	A	B
+\pxsbxDB	\pxsbx	D	B
+\pxsbxABC	\pxsbx	A	B	C
+\pxsbxABCB	\pxsbx	A	B	C	B
+\pxsbxABCD	\pxsbx	A	B	C	D
+\pxsbxABCDs	\pxsbx	A	B	C	D	s
+\pxsbxABCF	\pxsbx	A	B	C	F
+\pxsbxABCO	\pxsbx	A	B	C	O
+\pxsbxABDC	\pxsbx	A	B	D	C
+\pxsbxABDE	\pxsbx	A	B	D	E
+\pxsbxABEF	\pxsbx	A	B	E	F
+\pxsbxABFC	\pxsbx	A	B	F	C
+\pxsbxACBC	\pxsbx	A	C	B	C
+\pxsbxACDE	\pxsbx	A	C	D	E
+\pxsbxACDO	\pxsbx	A	C	D	O
+\pxsbxACED	\pxsbx	A	C	E	D
+\pxsbxADBC	\pxsbx	A	D	B	C
+\pxsbxADBFC	\pxsbx	A	D	B	F	C
+\pxsbxADCB	\pxsbx	A	D	C	B
+\pxsbxADCE	\pxsbx	A	D	C	E
+\pxsbxADEF	\pxsbx	A	D	E	F
+\pxsbxADFC	\pxsbx	A	D	F	C
+\pxsbxADMD	\pxsbx	A	D	M	D
+\pxsbxADMN	\pxsbx	A	D	M	N
+\pxsbxADNM	\pxsbx	A	D	N	M
+\pxsbxAE	\pxsbx	A	E
+\pxsbxAECE	\pxsbx	A	E	C	E
+\pxsbxAECF	\pxsbx	A	E	C	F
+\pxsbxAECO	\pxsbx	A	E	C	O
+\pxsbxAEFC	\pxsbx	A	E	F	C
+\pxsbxAFCE	\pxsbx	A	F	C	E
+\pxsbxAGFD	\pxsbx	A	G	F	D
+\pxsbxAMDN	\pxsbx	A	M	D	N
+\pxsbxAOBC	\pxsbx	A	O	B	C
+\pxsbxAOBD	\pxsbx	A	O	B	D
+\pxsbxAOCE	\pxsbx	A	O	C	E
+\pxsbxAPBC	\pxsbx	A	P	B	C
+\pxsbxAPOB	\pxsbx	A	P	O	B
+\pxsbxB	\pxsbx	B
+\pxsbxBC	\pxsbx	B	C
+\pxsbxBCBE	\pxsbx	B	C	B	E
+\pxsbxBCDA	\pxsbx	B	C	D	A
+\pxsbxBD	\pxsbx	B	D
+\pxsbxBDCE	\pxsbx	B	D	C	E
+\pxsbxBDCF	\pxsbx	B	D	C	F
+\pxsbxBDCO	\pxsbx	B	D	C	O
+\pxsbxBDFE	\pxsbx	B	D	F	E
+\pxsbxBECD	\pxsbx	B	E	C	D
+\pxsbxBFCD	\pxsbx	B	F	C	D
+\pxsbxBMDN	\pxsbx	B	M	D	N
+\pxsbxBOAC	\pxsbx	B	O	A	C
+\pxsbxBOCA	\pxsbx	B	O	C	A
+\pxsbxBOCD	\pxsbx	B	O	C	D
+\pxsbxBODC	\pxsbx	B	O	D	C
+\pxsbxBOGD	\pxsbx	B	O	G	D
+\pxsbxC	\pxsbx	C
+\pxsbxCE	\pxsbx	C	E
+\pxsbxCFHE	\pxsbx	C	F	H	E
+\pxsbxCODE	\pxsbx	C	O	D	E
+\pxsbxCPED	\pxsbx	C	P	E	D
+\pxsbxD	\pxsbx	D
+\pxsbxDABC	\pxsbx	D	A	B	C
+\pxsbxDAHO	\pxsbx	D	A	H	O
+\pxsbxDCBA	\pxsbx	D	C	B	A
+\pxsbxDCBE	\pxsbx	D	C	B	E
+\pxsbxDCEB	\pxsbx	D	C	E	B
+\pxsbxDCED	\pxsbx	D	C	E	D
+\pxsbxDEBC	\pxsbx	D	E	B	C
+\pxsbxDEBF	\pxsbx	D	E	B	F
+\pxsbxDEBM	\pxsbx	D	E	B	M
+\pxsbxDECO	\pxsbx	D	E	C	O
+\pxsbxDEQG	\pxsbx	D	E	Q	G
+\pxsbxDMN	\pxsbx	D	M	N
+\pxsbxDMNA	\pxsbx	D	M	N	A
+\pxsbxE	\pxsbx	E
+\pxsbxEABD	\pxsbx	E	A	B	D
+\pxsbxEAFC	\pxsbx	E	A	F	C
+\pxsbxEBCF	\pxsbx	E	B	C	F
+\pxsbxEC	\pxsbx	E	C
+\pxsbxECO	\pxsbx	E	C	O
+\pxsbxEDAF	\pxsbx	E	D	A	F
+\pxsbxEDFA	\pxsbx	E	D	F	A
+\pxsbxEFGH	\pxsbx	E	F	G	H
+\pxsbxEFGI	\pxsbx	E	F	G	I
+\pxsbxEHBA	\pxsbx	E	H	B	A
+\pxsbxEHGM	\pxsbx	E	H	G	M
+\pxsbxPQCG	\pxsbx	P	Q	C	G
+\pxsbxEGDC	\pxsbx	E	G	D	C
+\pxsbxF	\pxsbx	F
+\pxsbxFACB	\pxsbx	F	A	C	B
+\pxsbxFBEO	\pxsbx	F	B	E	O
+\pxsbxFBPO	\pxsbx	F	B	P	O
+\pxsbxFEB	\pxsbx	F	E	B
+\pxsbxH	\pxsbx	H
+\pxsbxHDCB	\pxsbx	H	D	C	B
+\pxsbxM	\pxsbx	M
+\pxsbxMENF	\pxsbx	M	E	N	F
+\pxsbxMO	\pxsbx	M	O
+\pxsbxNM	\pxsbx	N	M
+\pxsbxO	\pxsbx	O
+\pxsbxOABC	\pxsbx	O	A	B	C
+\pxsbxOBAC	\pxsbx	O	B	A	C
+\pxsbxOCBE	\pxsbx	O	C	B	E
+\pxsbxOCDE	\pxsbx	O	C	D	E
+\pxsbxOCED	\pxsbx	O	C	E	D
+\pxsbxODCE	\pxsbx	O	D	C	E
+\pxsbxODEC	\pxsbx	O	D	E	C
+\pxsbxOLED	\pxsbx	O	L	E	D
+\pxsbxOMNA	\pxsbx	O	M	N	A
+\pxsbxOPQB	\pxsbx	O	P	Q	B
+\pxsbxP	\pxsbx	P
+\pxsbxPA	\pxsbx	P	A
+\pxsbxR	\pxsbx	R
+\pxsbxS	\pxsbx	S
+\pxsbxY	\pxsbx	Y
+\pxsdx	\pxsbx
+\pxsdy	\pxdy
+\pxsix	\pxsbx
+\pxsx	\pxsbx
+\pxsxb	\pxsbx
+\pxtd	\pxdy
+\pxxbx	\pxsbx
+\pxxdy	\pxdy
+\pxyd	\pxdy
+\pxzbxABFC	\pxsbx	A	B	F	C
+\pzdy	\pxdy
+\qdiv	\div
+\qeg	\neg
+\qeq	\ge
+\qua	\space
+\quab	\space
+\quda	\space
+\qudaAE	\space	A	E
+\quiad	\space
+\rVert	\rVert
+\ranglex	\rangle	x
+\rapallel	\parallel
+\rbrace	\rbrace
+\rceil	\rceil
+\rep	
+\rfloor	\rfloor
+\rgroup	\rgroup
+\rhoGR	\rho	G	R
+\rhoc	\rho	c
+\rhocos	\rho	c	o	s
+# \rhomboid	\rho	m	b	o	i	d
+# \rhomboidABCM	\rho	m	b	o	i	d	A	B	C	M
+\rhos	\rho	s
+\rhosin	\rho	s	i	n
+\rhow	\rho	w
+\rhoQ	\rho	Q
+\ri	\ni
+\riangleFOC	\triangle	F	O	C
+\rig	
+\righ	
+\rightarrAw	\rightarrow
+\rightarraw	\rightarrow
+\rightarro	\rightarrow
+\rightarrowA	\rightarrow	A
+\rightarrowB	\rightarrow	B
+\rightarrowBDD	\rightarrow	B	D	D
+\rightarrowD	\rightarrow	D
+\rightarrowa	\rightarrow	a
+\rightarrowf	\rightarrow	f
+\rightarroww	\rightarrow	w
+\rightarrowx	\rightarrow	x
+\rightb	b
+\rightharpoondown	\rightharpoondown
+\rightharpoondownq	\rightharpoondown	q
+\rightharpoonup	\rightharpoonup
+\rightleftarrows	\rightleftarrows
+\rightleftharpoons	\rightleftharpoons
+\rightorarrow	\rightarrow
+\rigntarrow	\rightarrow
+\RightarrowAH	\Rightarrow A H
+\RightarrowBAHE	\Rightarrow B A H E
+\RightarrowBD	\Rightarrow B D
+\RightarrowEF	\Rightarrow E F
+\RightarrowEG	\Rightarrow E G
+\RightarrowEH	\Rightarrow E H
+\RightarrowFE	\Rightarrow F E
+\RightarrowGH	\Rightarrow G H
+\Rightarrowcos	\Rightarrow c o s
+\Rightarrowf	\Rightarrow f
+\Rightarrowg	\Rightarrow g
+\rlap	\rlap
+# \rset	\r	s	e	t
+\rtimes	\rtimes
+\sMN	s	M	N
+\saceC	\space	C
+\samear	\smear
+\sapceA	\space	A
+\sapceAB	\space	A	B
+\sapceABC	\space	A	B	C
+\sapceABCM	\space	A	B	C	M
+\sapceAC	\space	A	C
+\sapceAD	\space	A	D
+\sapceAE	\space	A	E
+\sapceAG	\space	A	G
+\sapceAM	\space	A	M
+\sapceAO	\space	A	O
+\sapceAP	\space	A	P
+\sapceB	\space	B
+\sapceBA	\space	B	A
+\sapceBC	\space	B	C
+\sapceBD	\space	B	D
+\sapceBF	\space	B	F
+\sapceC	\space	C
+\sapceCA	\space	C	A
+\sapceCD	\space	C	D
+\sapceCM	\space	C	M
+\sapceCQ	\space	C	Q
+\sapceD	\space	D
+\sapceDA	\space	D	A
+\sapceDC	\space	D	C
+\sapceDE	\space	D	E
+\sapceDM	\space	D	M
+\sapceE	\space	E
+\sapceEO	\space	E	O
+\sapceF	\space	F
+\sapceFB	\space	F	B
+\sapceG	\space	G
+\sapceH	\space	H
+\sapceM	\space	M
+\sapceMC	\space	M	C
+\sapceN	\space	N
+\sapceO	\space	O
+\sapceOB	\space	O	B
+\sapceOE	\space	O	E
+\sapceP	\space	P
+\sapcePA	\space	P	A
+\sapcePB	\space	P	B
+\sapcePC	\space	P	C
+\sapcePO	\space	P	O
+\sapceQ	\space	Q
+\sapceQE	\space	Q	E
+\sapceQH	\space	Q	H
+\sapceQN	\space	Q	N
+\sapcesinA	\space	s	i	n	A
+\sapcesinC	\space	s	i	n	C
+\sarx	\sharp
+\sbx	\pxsbx
+\seaceMC	\space	M	C
+\seam	\smear
+\searm	\smear
+\semar	\smear
+\setminus	\setminus
+\sf	\sf
+\sh	s	h
+\sharp	\sharp
+\simAD	\sim	A	D
+\simm	\sim	m
+\sinA	s	i	n	A
+\sinAbc	s	i	n	A	b	c
+\sinAsinB	s	i	n	A	s	i	n	B
+\sinB	s	i	n	B
+\sinBAD	s	i	n	B	A	D
+\sinBBD	s	i	n	B	B	D
+\sinBsinC	s	i	n	B	s	i	n	C
+\sinC	s	i	n	C
+\sinCAD	s	i	n	C	A	D
+\sinCDC	s	i	n	C	D	C
+\sinDAC	s	i	n	D	A	C
+\sinF	s	i	n	F
+\sinPBC	s	i	n	P	B	C
+\sintd	s	i	n	t	d
+\sm	\sim
+\ERR	\smear
+\davidsstar	\star
+\or	\lor
+\ot	\bot
+\paallel	\parallel
+\paceAB	\space A B
+\paceCB	\space C B
+\Rt	R t
+\Cos	c o s
+\Tan	t a n
+\Sin	s i n
+\cosx	c o s x
+\cosc	c o s c
+\cost	c o s t
+\cose	c o s e
+\cosa	c o s a
+\cox s	c o s x
+\ab	a b
+\aa	a a
+\ac	a c
+\ak	a k
+\ae	a e
+\ap	a p
+\az	a z
+\ay	a y
+\ax	a x
+\bc	b c
+\be	b e
+\bx	b x
+\by	b y
+\bz	b z
+\ck	c k
+\co	c o
+\cp	c p
+\dx	d x
+\ten	t a n
+\simtriangle	\sim \triangle
+\sime	\simeq
+\sic	s i n
+\si	s i
+\barx	\overline { x }
+\am	a m
+\tieangle	\triangle
+\atringle	\triangle
+\teiangle	\triangle
+\ytiangle	\triangle
+\Rtriangle	\triangle
+\atriangle	\triangle
+\ariangle	\triangle
+\sriangle	\triangle
+\Atriangle	\triangle
+\Ttriangle	\triangle
+\thriangle	\triangle
+\teangle	\triangle
+\strangle	\triangle
+\taingle	\triangle
+\striangle	\triangle
+\tangle	\triangle
+\Rttriangle	\triangle
+\trianglge	\triangle
+\tiangle	\triangle
+\antrigle	\triangle
+\taiangle	\triangle
+\yriangle	\triangle
+\Striangle	\triangle
+\ytriangle	\triangle
+\aspace	\space
+\spazce	\space
+\apace	\space
+\apsce	\space
+\Aspace	\space
+\apce	\space
+\aspce	\space
+\cpace	\space
+\sapce	\space
+\dpacea	\space
+\Space	\space
+\becauseangle	\because \angle
+\becauseln	\because l n
+\becausea	\because a
+\becauseb	\because b
+\becausec	\because c
+\becaused	\because d
+\becausee	\because e
+\becausef	\because f
+\becauseg	\because g
+\becauseh	\because h
+\becausek	\because k
+\becausel	\because l
+\becausem	\because m
+\becausen	\because n
+\becausep	\because p
+\becauseq	\because q
+\becauser	\because r
+\becauses	\because s
+\becausew	\because w
+\becausex	\because x
+\becausey	\because y
+\becausez	\because z
+\numeighta	\textcircled { 8 } a
+\numeightx	\textcircled { 8 } x
+\numfivea	\textcircled { 5 } a
+\numfivef	\textcircled { 5 } f
+\numfivep	\textcircled { 5 } p
+\numfivetimes	\textcircled { 5 } \times
+\numfivev	\textcircled { 5 } v
+\numfivex	\textcircled { 5 } x
+\numfoura	\textcircled { 4 }  a
+\numfourf	\textcircled { 4 }  f
+\numfourg	\textcircled { 4 }  g
+\numfourk	\textcircled { 4 }  k
+\numfourm	\textcircled { 4 }  m
+\numfourn	\textcircled { 4 }  n
+\numfourp	\textcircled { 4 }  p
+\numfourq	\textcircled { 4 }  q
+\numfoursinx	\textcircled { 4 }  s i n x
+\numfourx	\textcircled { 4 }  x
+\numfourz	\textcircled { 4 }  z
+\numninea	\textcircled { 9 }  a
+\numninex	\textcircled { 9 }  x
+\Parallelogram	\pxsbx
+\numonea	\textcircled { 1 }  a
+\numoneab	\textcircled { 1 }  a b
+\numoneabx	\textcircled { 1 }  a b x
+\numoneax	\textcircled { 1 }  a x
+\numoneb	\textcircled { 1 }  b
+\numoneba	\textcircled { 1 }  b a
+\numonecos	\textcircled { 1 }  c o s
+\numoned	\textcircled { 1 }  d
+\numonef	\textcircled { 1 }  f
+\numoneg	\textcircled { 1 }  g
+\numoneh	\textcircled { 1 }  h
+\numonek	\textcircled { 1 }  k
+\numonel	\textcircled { 1 }  l
+\numoneln	\textcircled { 1 }  l n
+\numonelnx	\textcircled { 1 }  l n x
+\numonem	\textcircled { 1 }  m
+\numonemin	\textcircled { 1 }  m i n
+\numonen	\textcircled { 1 }  n
+\numonep	\textcircled { 1 }  p
+\numoneq	\textcircled { 1 }  q
+\numoner	\textcircled { 1 }  r
+\numones	\textcircled { 1 }  s
+\numonesin	\textcircled { 1 }  s i n
+\numonesinx	\textcircled { 1 }  s i n x
+\numonet	\textcircled { 1 }  t
+\numonetimes	\textcircled { 1 }  \times
+\numonev	\textcircled { 1 }  v
+\numonevp	\textcircled { 1 }  v p
+\numonex	\textcircled { 1 }  x
+\numoney	\textcircled { 1 }  y
+\numsevena	\textcircled { 7 }  a
+\numsevenx	\textcircled { 7 }  x
+\numsixa	\textcircled { 6 }  a
+\numsixb	\textcircled { 6 }  b
+\numsixx	\textcircled { 6 }  x
+\numthreea	\textcircled { 3 }  a
+\numthreeax	\textcircled { 3 }  a x
+\numthreeb	\textcircled { 3 }  b
+\numthreec	\textcircled { 3 }  c
+\numthreecb	\textcircled { 3 }  c b
+\numthreef	\textcircled { 3 }  f
+\numthreeg	\textcircled { 3 }  g
+\numthreek	\textcircled { 3 }  k
+\numthreekl	\textcircled { 3 }  k l
+\numthreem	\textcircled { 3 }  m
+\numthreemn	\textcircled { 3 }  m n
+\numthreen	\textcircled { 3 }  n
+\numthreep	\textcircled { 3 }  p
+\numthreet	\textcircled { 3 }  t
+\numthreex	\textcircled { 3 }  x
+\numthreey	\textcircled { 3 }  y
+\numtwoa	\textcircled { 2 }  a
+\numtwoab	\textcircled { 2 }  a b
+\numtwoax	\textcircled { 2 }  a x
+\numtwob	\textcircled { 2 }  b
+\numtwoc	\textcircled { 2 }  c
+\numtwoca	\textcircled { 2 }  c a
+\numtwocos	\textcircled { 2 }  c o s
+\numtwod	\textcircled { 2 }  d
+\numtwodiv	\textcircled { 2 }  \div
+\numtwoe	\textcircled { 2 }  e
+\numtwof	\textcircled { 2 }  f
+\numtwog	\textcircled { 2 }  g
+\numtwoh	\textcircled { 2 }  h
+\numtwoi	\textcircled { 2 }  i
+\numtwok	\textcircled { 2 }  k
+\numtwol	\textcircled { 2 }  l
+\numtwoln	\textcircled { 2 }  l n
+\numtwolnx	\textcircled { 2 }  l n x
+\numtwom	\textcircled { 2 }  m
+\numtwon	\textcircled { 2 }  n
+\numtwop	\textcircled { 2 }  p
+\numtwoq	\textcircled { 2 }  q
+\numtwor	\textcircled { 2 }  r
+\numtwosin	\textcircled { 2 }  s i n
+\numtwosinx	\textcircled { 2 }  s i n x
+\numtwot	\textcircled { 2 }  t
+\numtwotimes	\textcircled { 2 }  \times
+\numtwou	\textcircled { 2 }  u
+\numtwow	\textcircled { 2 }  w
+\numtwox	\textcircled { 2 }  x
+\numtwoy	\textcircled { 2 }  y
+\qaud	\space
+\quad	\space
+\sace	\space
+\sacpe	\space
+\sapace	\space
+\sapae	\space
+\sapc	\space
+\sapca	\space
+\sapcea	\space a
+\sapceb	\space b
+\sapceby	\space b y
+\sapced	\space d
+\sapcef	\space f
+\sapceg	\space g
+\sapcem	\space m
+\sapcen	\space n
+\sapcer	\space r
+\sapces	\space s
+\sapcesin	\space s i n
+\sapcex	\space x
+\sapcey	\space y
+\sapcez	\space z
+\seqce	\space
+\soace	\space
+\sdpace	\space
+\seace	\space
+\scape	\space
+\scpace	\space
+\scpae	\space
+\sapse	\space
+\spa	\space
+\scpaek	\space
+\sopace	\space
+\scriptscriptstyl	
+\scriptstylen	
+\sina	s i n a
+\sinc	s i n c
+\sinh	s i n h
+\sinn	s i n n
+\sint	s i n t
+\sinx	s i n x
+\tant	t a n t
+\tanx	t a n x
+\tx	t x
+\ty	t y
+\unka	\unk a
+\unke	\unk e
+\unkf	\unk f
+\unkl	\unk l
+\unkm	\unk m
+\unkn	\unk n
+\unkp	\unk p
+\unkq	\unk q
+\unkx	\unk x
+\unky	\unk y
+\unkz	\unk z
+\xa	x a
+\xlnx	x l n x
+\xy	x y
+\xz	x z
+\yx	y x
+\yz	y z
+\za	z a
+\zx	z x
+\blunk	\space
+\blankcos	\space c o s
+\becausetriangle	\because \triangle
+\becausesin	\because s i n
+\tehrefore	\therefore
+\theefore	\therefore
+\thereefore	\therefore
+\herefor	\therefore
+\theerfore	\therefore
+\therebefore	\therefore
+\herefore	\therefore
+\yherefore	\therefore
+\teherfore	\therefore
+\terefore	\therefore
+\becauyse	\because
+\becsuse	\because
+\ecause	\because
+\Becasue	\because
+\baceuse	\because
+\becaose	\because
+\becaise	\because
+\bevause	\because
+\becauuse	\because
+\becapse	\because
+\beucause	\because
+\becuae	\because
+\becausde	\because
+\beverage	\because
+\bean	\because
+\tecause	\because
+\bacauce	\because
+\becaauase	\because
+\becapce	\because
+\becusae	\because
+\beucase	\because
+\becdause	\because
+\becsause	\because
+\beaucse	\because
+\ecauseb	\because
+\becauee	\because
+\begause	\because
+\becaues	\because
+\becayuse	\because
+\becayse	\because
+\bencause	\because
+\Becuase	\because
+\becausa	\because
+\brvause	\because
+\beacus	\because
+\hecause	\because
+\bobecauset	\because
+\becauase	\because
+\becasse	\because
+\becausue	\because
+\becvause	\because
+\becaese	\because
+\beceause	\because
+\bebcause	\because
+\becansue	\because
+\becausw	\because
+\beach	\because
+\bccause	\because
+\beczuse	\because
+\becuuse	\because
+\baecause	\because
+\bbecause	\because
+\beecause	\because
+\bcecause	\because
+\beause	\because
+\Vbecause	\because
+\becaus	\because
+\bceause	\because
+\becquse	\because
+\beuause	\because
+\besuse	\because
+\beacsue	\because
+\bedcause	\because
+\becaustherefore	\because
+\becaquse	\because
+\necause	\because
+\becuase	\because
+\beceuse	\because
+\beauuse	\because
+\becaause	\because
+\becausse	\because
+\aecause	\because
+\becouse	\because
+\becaue	\because
+\became	\because
+\becausne	\because
+\bucause	\because
+\becsuase	\because
+\becacse	\because
+\bsecause	\because
+\becsue	\because
+\becausetherefore	\because
+\betaus	\because
+\cecause	\because
+\becacuse	\because
+\becuause	\because
+\becausae	\because
+\becuse	\because
+\besause	\because
+\becuaes	\because
+\becausre	\because
+\bec	\because
+\becaude	\because
+\becuade	\because
+\becauae	\because
+\bacuse	\because
+\becae	\because
+\becasue	\because
+\becase	\because
+\tbecause	\because
+\becuasce	\because
+\beacause	\because
+\beca	\because
+\bezause	\because
+\becausce	\because
+\bacaause	\because
+\becausr	\because
+\beacuese	\because
+\becauwse	\because
+\beseuse	\because
+\befcause	\because
+\becauze	\because
+\besuace	\because
+\becausu	\because
+\secause	\because
+\beuace	\because
+\brcause	\because
+\becauise	\because
+\besacse	\because
+\Because	\because
+\beache	\because
+\becausere	\because
+\becasuse	\because
+\bedause	\because
+\becauseore	\because
+\beacuse	\because
+\becuace	\because
+\bercause	\because
+\becaiuse	\because
+\becusa	\because
+\bcaause	\because
+\bnecause	\because
+\Becca	\because
+\becauese	\because
+\beacauese	\because
+\bscause	\because
+\ebcause	\because
+\becau	\because
+\bcauese	\because
+\becsuae	\because
+\becauce	\because
+\beccause	\because
+\bacause	\because
+\bwcause	\because
+\bcause	\because
+\decause	\because
+\bdcause	\because
+\Bbecause	\because
+\bucaesu	\because
+\bexause	\because
+\cdoy	\cdot
+\Cdot	\cdot
+\codt	\cdot
+\cdo	\cdot
+\cddot	\cdot
+\cd	\cdot
+\cdor	\cdot
+\codts	\cdots
+\Deltae	\triangle
+\Detla	\triangle
+\Dtriangle	\triangle
+\Righttarrow	\Rightarrow
+\Righrarrow	\Rightarrow
+\ange	\angle
+\gngle	\angle
+\angnle	\angle
+\anele	\angle
+\angel	\angle
+\angele	\angle
+\amgle	\angle
+\abgle	\angle
+\anglre	\angle
+\anglr	\angle
+\angie	\angle
+\anglle	\angle
+\anlge	\angle
+\angole	\angle
+\angl	\angle
+\agle	\angle
+\ang	\angle
+\alapha	\alpha
+\alphal	\alpha
+\aleph	\alpha
+\alphacos	\alpha c o s
+\sngle	\angle
+\angleb	\angle b
+\angled	\angle d
+\anglee	\angle e
+\anglel	\angle l
+\anglen	\angle n
+\anglep	\angle p
+\angler	\angle r
+\aubsetneqq	\subsetneqq
+\bott	\bot
+\bo	\bot
+\bor	\bot
+\bt	\bot
+\boc	\bot
+\bpt	\bot
+\boyt	\bot
+\cir	\circ
+\cric	\circ
+\crirc	\circ
+\cirl	\circ
+\congtriangle	\cong \triangle
+\conk	\cong
+\econg	\cong
+\song	\cong
+\subbset	\subset
+\cubset	\subset
+\sebset	\subset
+\sybset	\subset
+\dalta	\delta
+\detla	\delta
+\doc	\dot
+\sensetneqq	\subsetneqq
+\snbsetneqq	\subsetneqq
+\sebsetneqq	\subsetneqq
+\ssubsetneqq	\subsetneqq
+\spaacae	\space
+\spaace	\space
+\xpace	\space
+\spac	\space
+\spaca	\space
+\spacae	\space
+\spacag	\space g
+\spacam	\space m
+\spacce	\space
+\spaccex	\space x
+\spacd	\space
+\spacde	\space
+\tehta	\theta
+\thata	\theta
+\spacea	\space a
+\spaceax	\space a x
+\spaceb	\space b
+\spacebo	\space b o
+\spacec	\space c
+\spaced	\space d
+\spacek	\space k
+\spacem	\space m
+\spacemg	\space m g
+\spacen	\space n
+\spacep	\space p
+\spaceq	\space q
+\spacer	\space r
+\spaces	\space s
+\spacet	\space t
+\spacew	\space w
+\spacex	\space x
+\spacey	\space y
+\spaceymg	\spacey m g
+\spack	\space k
+\spacn	\space n
+\spacq	\space q
+\spacr	\space r
+\spacu	\space u
+\spacuse	\space
+\spacw	\space w
+\spacwz	\space w z
+\spadce	\space
+\spae	\space
+\spaea	\space a
+\spaec	\space c
+\spaeca	\space a
+\spaece	\space e
+\spaed	\space
+\spaey	\space y
+\spance	\space
+\spapce	\space
+\spaqce	\space
+\spare	\space
+\spasce	\space
+\spase	\space
+\spaseb	\space b
+\spauce	\space
+\spause	\space
+\spave	\space
+\spaxe	\space
+\spca	\space
+\spcace	\space
+\spcae	\space
+\spcaea	\space a
+\spcaeb	\space b
+\spcaek	\space k
+\spcaen	\space n
+\spcaex	\space x
+\spcase	\space
+\spcce	\space
+\spce	\space
+\spcea	\space
+\spcex	\space
+\speac	\space
+\speace	\space
+\spec	\space
+\speca	\space
+\specaa	\space a
+\specam	\space m
+\specax	\space x
+\specay	\space y
+\specaz	\space z
+\spece	\space
+\spoace	\space
+\sppace	\space
+\spqce	\space
+\textbardbl	//
+\spsace	\space
+\spsce	\space
+\spscex	\space x
+\spzce	\space
+\spze	\space
+\sqace	\space
+\leqx	\le x
+\Dleta	\triangle
+\srace	\space
+\nuk	\nu k
+\sspace	\space
+\sub	\subset
+\subaetneqq	\subsetneqq
+\subctneqq	\subsetneqq
+\subeetneq	\subsetneq
+\subentneqq	\subsetneqq
+\subeseteq	\subseteq
+\subesetneqq	\subsetneqq
+\subest	\subset
+\subesteq	\subseteq
+\subestneq	\subsetneq
+\subestneqq	\subsetneqq
+\subet	\subset
+\subetneq	\subsetneq
+\subetneqq	\subsetneqq
+\subneq	\subsetneq
+\subnetneqq	\subsetneqq
+\subs	\subset
+\subsatneqq	\subsetneqq
+\subse	\subset
+\subseet	\subset
+\subseeteqq	\subseteqq
+\subseineqq	\subsetneqq
+\subseneq	\subsetneq
+\subseneqq	\subsetneqq
+\subsenneqq	\subsetneqq
+\subsentenqq	\subsetneqq
+\subsenteqq	\subsetneqq
+\subsentneq	\subsetneq
+\subsentneqq	\subsetneqq
+\subser	\subset
+\subserneq	\subsetneq
+\subserneqq	\subsetneqq
+\subsetaeqq	\subsetneqq
+\subsetaqq	\subsetneqq
+\subsetbeq	\subsetneq
+\subsetbeqq	\subsetneqq
+\subsete	\subset
+\subseteneq	\subsetneq
+\subseteneqq	\subsetneqq
+\subsetenq	\subsetneq
+\subsetenqq	\subsetneqq
+\subsetep	\subseteq
+\subseteqneqq	\subsetneqq
+\subsetetneqq	\subsetneqq
+\subsetne	\subsetneq
+\subsetneb	\subsetneq
+\subsetnee	\subsetne
+\subsetneeq	\subsetneq
+\subsetneg	\subsetneq
+\subsetnep	\subsetneq
+\subsetnepp	\subsetneqq
+\subsetneqqnotin	\subsetneqq \not \in
+\subsetneqqp	\subsetneqq
+\subsetneqqq	\subsetneq
+\subsetneqqt	\subsetneqq
+\subsetnetqq	\subsetneqq
+\subsetnq	\subsetneq
+\subsetnqq	\subsetneq
+\subsetnteq	\subsetneq
+\subsetp	\subseteq
+\subsetq	\subseteq
+\subsetqneqq	\subsetneqq
+\subsetqq	\subseteqq
+\subsetueqq	\subseteqq
+\subseyneqq	\subsetneqq
+\subsntneqq	\subsetneqq
+\subsrtneq	\subsetneq
+\subsrtneqq	\subsetneqq
+\subst	\subset
+\substeneqq	\subsetneqq
+\substetneqq	\subsetneqq
+\substneqq	\subsetneqq
+\subsueneqq	\subsetneqq
+\subsutneqq	\subsetneqq
+\subswteq	\subseteq
+\sudse	\subset
+\sudset	\subset
+\sudsetneqq	\subsetneqq
+\sunnetneqq	\subsetneqq
+\sunsentneqq	\subsetneqq
+\sunset	\subset
+\sunsetneq	\subsetneq
+\sunsetneqq	\subsetneqq
+\sunsetnwqq	\subsetneqq
+\sunsntneqq	\subsetneqq
+\susbet	\subset
+\susbetneqq	\subsetneqq
+\suse	\subset
+\suset	\subset
+\susetneqq	\subsetneqq
+\suspet	\supset
+\suubset	\subset
+\suubsetneqq	\subsetneqq
+\suybsetneqq	\subsetneqq
+\wubsetneq	\subsetneq
+\sybsetneq	\subsetneq
+\sybsetneqq	\subsetneqq
+\therefe	\therefore
+\thereffore	\therefore
+\ttherefore	\therefore
+\therefire	\therefore
+\therefo	\therefore
+\therefoe	\therefore
+\therefoer	\therefore
+\therefoere	\therefore
+\therefor	\therefore
+\thereforbecause	\therefore
+\thereforce	\therefore
+\therefore	\therefore
+\thereforebecause	\therefore
+\therefored	\therefore
+\thereforee	\therefore
+\thereforem	\therefore m
+\thereforen	\therefore n
+\thereforeo	\therefore o
+\thereforep	\therefore p
+\thereforer	\therefore r
+\thereforeriangle	\therefore \triangle
+\thereforetrianglle	\therefore \triangle
+\thereforey	\therefore y
+\thereforw	\therefore w
+\therefote	\therefore
+\therefpre	\therefore
+\therefre	\therefore
+\therefroe	\therefore
+\therefrore	\therefore
+\theregore	\therefore
+\thereofore	\therefore
+\thereofre	\therefore
+\thereore	\therefore
+\therere	\therefore
+\thererfore	\therefore
+\theresore	\therefore
+\theretore	\therefore
+\therfor	\therefore
+\therfore	\therefore
+\therofore	\therefore
+\therrefore	\therefore
+\therrfore	\therefore
+\thewrefore	\therefore
+\thherefore	\therefore
+\thhrerfore	\therefore
+\thnerefore	\therefore
+\threefore	\therefore
+\tnerefore	\therefore
+\threfore	\therefore
+\threrefore	\therefore
+\threrfore	\therefore
+\thrtrfore	\therefore
+\thtrefore	\therefore
+\ties	\times
+\tim	\times
+\tinmes	\times
+\time	\times
+\timed	\times
+\tin	\times
+\tiems	\times
+\timse	\times
+\tirange	\triangle
+\troiangle	\triangle
+\tirangle	\triangle
+\tirnagle	\triangle
+\tirnalge	\triangle
+\tpiangle	\triangle
+\trabgle	\triangle
+\traig	\triangle
+\traight	\triangle
+\traingle	\triangle
+\training	\triangle
+\trangle	\triangle
+\tranigle	\triangle
+\treangle	\triangle
+\treiangle	\triangle
+\treinagle	\triangle
+\trerefore	\therefore
+\trherefore	\therefore
+\trhererfore	\therefore
+\triaangle	\triangle
+\reiangle	\triangle
+\triabgle	\triangle
+\triagle	\triangle
+\triagnel	\triangle
+\triagnle	\triangle
+\triaingle	\triangle
+\trial	\triangle
+\triamgle	\triangle
+\trian	\triangle
+\trianagle	\triangle
+\trianele	\triangle
+\trianfle	\triangle
+\triang	\triangle
+\triangale	\triangle
+\triange	\triangle
+\triangel	\triangle
+\triangele	\triangle
+\triangfle	\triangle
+\trianggle	\triangle
+\trianghle	\triangle
+\triangie	\triangle
+\triangke	\triangle
+\triangkle	\triangle
+\triangl	\triangle
+\triangla	\triangle
+\trianglae	\triangle
+\triangle	\triangle
+\trianglea	\triangle a
+\triangleacm	\triangle a c m
+\triangleb	\triangle b
+\trianglec	\triangle c
+\trianglecdo	\triangle c d o
+\triangled	\triangle d
+\trianglee	\triangle e
+\triangleherefore	\triangle \therefore
+\trianglel	\triangle
+\trianglele	\triangle
+\trianglen	\triangle n
+\triangler	\triangle r
+\trianglet	\triangle t
+\trianglev	\triangle v
+\triangli	\triangle
+\trianglle	\triangle
+\trianglr	\triangle
+\trianglre	\triangle
+\trianglw	\triangle
+\triangole	\triangle
+\triangre	\triangle
+\triangtle	\triangle
+\tiagnle	\triangle
+\trianhle	\triangle
+\trianle	\triangle
+\trianleg	\triangle
+\trianlge	\triangle
+\trianngle	\triangle
+\triaqngle	\triangle
+\triganle	\triangle
+\trigger	\triangle
+\trigle	\triangle
+\trignale	\triangle
+\trigngle	\triangle
+\triiangle	\triangle
+\trinagle	\triangle
+\trinangle	\triangle
+\tringlae	\triangle
+\tringle	\triangle
+\trioangle	\triangle
+\triqangle	\triangle
+\trireinangle	\triangle
+\trisngle	\triangle
+\trisnglr	\triangle
+\troangle	\triangle
+\trriangle	\triangle
+\trtiangle	\triangle
+\truangle	\triangle
+\ttiangle	\triangle
+\ttriangle	\triangle
+\tyiangle	\triangle
+\uknk	\unk
+\ukn	\unk
+\ubk	\unk
+\vecause	\because
+\vbecause	\because
+\veca	\overrightarrow { a }
+\vecb	\overrightarrow { b }
+\textdiscount	\%
+\gep	\ge p
+\textasciiacute	\prime
+\textgreater	\ge
+\degree	\circ
+\cdotsin	\cdot s i n
+\textrightarrow	\rightarrow
+\timesb	\times b
+\Bot	\bot
+\Box	\pxsbx
+\*	*
+\+	+
+\-	-
+\.	.
+\/	/
+\0	0
+\:	:
+\</s>	</s>
+\=	=
+\?	?
+\A	A
+\Ab	A b
+\C	C
+\Dalta	\triangle
+\Drlta	\triangle
+\Delat	\triangle
+\Delea	\triangle
+\Deleta	\triangle
+\Delt	\triangle
+\Deltam	\triangle m
+\Deltao	\triangle o
+\Delte	\triangle
+\filler	\smear
+\bullet	\cdot
+\Circle	\bigcirc
+\textdegree	\circ
+\kx	k x
+\lnx	l n x
+\textpm	\pm
+\cdotx	\cdot x
+\textdownarrow	\downarrow
+\Aa	A a
+\Ao	A o
+\Ax	A x
+\Eo	E o
+\Hn	H n
+\In	\in
+\Kt	K t
+\Kx	K x
+\Leftrightarrow	\Leftrightarrow
+\Ln	l n
+\Longrightarro	\Rightarrow
+\Longrightarrown	\Rightarrow n
+\Max	m a x
+\My	m y
+\Pr	P r
+\Rc	R c
+\Re	R e
+\Rightarro	\Rightarrow
+\Rightarrowa	\Rightarrow a
+\Rightarrowb	\Rightarrow b
+\Rightarrowm	\Rightarrow m
+\Rightarrown	\Rightarrow n
+\Rightarrowx	\Rightarrow x
+\Rightarrowy	\Rightarrow y
+\Rongrightarrow	\Rightarrow
+\Rr	R r
+\S	S
+\Square	\square
+\Therefore	\therefore
+\Times	\times
+\Tt	T t
+\[	[
+\\UC_4E14	\UC_4E14
+\\UC_4E2D	\UC_4E2D
+\\UC_4E3A	\UC_4E3A
+\\UC_552E	\UC_552E
+\\UC_7531	\UC_7531
+\\enter	\\
+\\therefore	\therefore
+\]	]
+\`	`
+\ad	a d
+\af	a f
+\ain	s i n
+\alpha	\alpha
+\alphar	\alpha r
+\an	a n
+\anegl	\angle
+\anegle	\angle
+\anfle	\angle
+\angla	\angle
+\anglausee	\angle
+\anglea	\angle a
+\anglec	\angle c
+\angleo	\angle o
+\angleoa	\angle o a
+\anglex	\angle x
+\anglg	\angle
+\anglk	\angle k
+\angte	\angle
+\anhle	\angle
+\anleg	\angle
+\appro	\approx
+\approxx	\approx x
+\astb	* b
+\astrosun	\textcircled { \cdot }
+\ba	b a
+\baceusey	\because
+\backslash	\backslash
+\bd	b d
+\becasues	\because
+\becaufe	\because
+\becauslh	\because
+\becauxse	\because
+\beceaus	\because
+\becfause	\because
+\becuese	\because
+\beeause	\because
+\benause	\because
+\bescause	\because
+\beuacse	\because
+\beuase	\because
+\bigodot	\textcircled { \cdot }
+\bigoplus	\textcircled { + }
+\bigstar	\star
+\bk	b k
+\bm	b m
+\botx	\bot x
+\bucsuse	\because
+\bulletx	\cdot x
+\busause	\because
+\cao	\cap
+\cb	c b
+\cdota	\cdot a
+\cdotb	\cdot b
+\cdotk	\cdot k
+\cdotm	\cdot m
+\cdotp	\cdot p
+\cdotsf	\cdots f
+\cdotsn	\cdots n
+\cdotss	\cdots s
+\cdott	\cdot t
+\cdoty	\cdot y
+\cdtos	\cdots
+\cf	C F
+\checked	\checkmark
+\circi	\circ i
+\circk	\circ k
+\circn	\circ n
+\circquad	\circ \space
+\cn	c n
+\colonx	: x
+\coprod	\coprod
+\crc	\circ
+\cso	c o s
+\ctot	\cdot
+\cx	c x
+\cy	c y
+\ddot	\ddot
+\diamond	\Diamond
+\diamondsuit	\Diamond
+\diva	\div a
+\divb	\div b
+\divc	\div c
+\divide	\div
+\divx	\div x
+\divz	\div z
+\dy	d y
+\en	e n
+\epsilon	\epsilon
+\eq	=
+\err	\smear
+\fxdy	\pxdy
+\geqe	\ge e
+\geqp	\ge p
+\geqs	\ge s
+\geqslan	\ge
+\geqt	\ge t
+\geqx	\ge x
+\get	\ge t
+\geqG	\ge G
+\iangle	\triangle
+\icrc	\circ
+\iinfty	\infty
+\imes	\times
+\inft	\infty
+\intercal	\intercal
+\inz	\in z
+\itangle	\triangle
+\itrangle	\triangle
+\kg	k g
+\kl	k l
+\lambdad	\lambda d
+\lamda	\lambda
+\lamdba	\lambda
+\lanbda	\lambda
+\langte	\langle
+\ldots	. . .
+\le	\le
+\lef	\le f
+\leg	\le g
+\leo	\le o
+\lep	\le p
+\leqa	\le a
+\leqd	\le d
+\leqh	\le h
+\leqm	\le m
+\leqqx	\leqq x
+\leqs	\le s
+\leqslantx	\le x
+\leqslan	\le
+\leqt	\le t
+\let	\le t
+\letriang	\le \triangle
+\lex	\le x
+\lna	l n a
+\lne	l n e
+\lneq	\lneq
+\lnk	l n k
+\lnt	l n t
+\lo	l o g
+\loga	l o g a
+\longleftarrow	\leftarrow
+\longrightarrow	\rightarrow
+\lparalel	//
+\lr	l r
+\ltimes	\ltimes
+\luk	\unk
+\lunk	\unk
+\ly	l y
+\mk	m k
+\mn	m n
+\mx	m x
+\my	m y
+\mz	m z
+\ncong	\ncong
+\necausex	\because x
+\neqb	\not = b
+\neqo	\not = o
+\neqp	\not = p
+\neqq	\not = q
+\nesubseteq	\not \subset
+\nsubsertrq	\not \subseteq
+\nsuvset	\not \subset
+\nut	\nu t
+\nxubseteq	\not \subseteq
+\oarallel	//
+\oc	o c
+\ocng	\cong
+\ocos	c o s
+\odots	\textcircled { \cdot }
+\omage	\omega
+\omegax	\omega x
+\omegac	\omega	c
+\omegas	\omega	s
+\omegasc	\omega	s	c
+\oplusx	\oplus x
+\pa	\pi
+\pace	\space
+\paces	\space
+\paeallel	//
+\paraallel	//
+\parall	//
+\paralle	//
+\parallela	// a
+\parallelc	// c
+\parallele	// e
+\parallelel	//
+\paralleleq	\pxdy
+\paralleleqcd	\pxdy c d
+\parallell	//
+\parallelogram	\pxsbx
+\parallely	// y
+\paraller	//
+\parelel	//
+\parellel	//
+\parllel	//
+\pasce	\space
+\pecause	\because
+\per	\bot
+\permil	\textperthousand
+\pic	\pi c
+\picm	\pi c m
+\pir	\pi r
+\pma	\pm a
+\pmb	\pm b
+\pmm	\pm m
+\pmx	\pm x
+\poarallel	//
+\psace	\space
+\puad	\space
+\px	//
+\pxd	\pxdy
+\pxsb	\pxsbx
+\pxsbxabcd	\pxsbx a b c d
+\pxsbxs	\pxsbx s
+\pxzbx	\pxsbx
+\pydy	\pxdy
+\reiagnle	\triangle
+\reinangle	\triangle
+\rherefore	\therefore
+\riangle	\triangle
+\rriangle	\triangle
+\rt	r t
+\rtiangle	\triangle
+\rtimes	\rtimes
+\rubsetneqq	\subsetneqq
+\sangle	\angle
+\sapcebc	\space b c
+\sapcec	\space c
+\sapceq	\space q
+\sape	\space
+\sbsetneq	\subsetneq
+\sbubsetneqq	\subsetneqq
+\sbusetneq	\subsetneq
+\sbusetneqq	\subsetneqq
+\sdot	\cdot
+\shortparallel	//
+\smeara	\smear a
+\smearb	\smear b
+\smearc	\smear c
+\smearcos	\smear c o s
+\smearh	\smear h
+\smeark	\smear k
+\smearm	\smear m
+\smearn	\smear n
+\smearp	\smear p
+\smearsin	\smear s i n
+\smearx	\smear x
+\sos	c o s
+\spacious	\space
+\spaue	\space
+\spcec	\space
+\speaca	\space a
+\sppaceb	\space b
+\squarex	\square x
+\subeteqq	\subseteqq
+\subseetneqq	\subsetneqq
+\subsequent	\subsetneqq
+\subsetceqq	\subsetneqq
+\subsetepp	\subseteqq
+\subsetmeq	\subsetneq
+\subsetmeqq	\subsetneqq
+\subsetneeqq	\subsetneqq
+\susetneq	\subsetneq
+\textacutedbl	"
+\textbar	|
+\textbarc	\textbar c
+\textcelsiusx	\textcelsius x
+\textcelsiusg	\textcelsius g
+\textdiv	\div
+\textendash	\textemdash
+\textleftarrow	\leftarrow
+\textless	<
+\textminus	-
+\textonehalf	\frac { 1 } { 2 }
+\textopenbullet	\circ
+\texttildelow	\sim
+\texttimes	\times
+\textuparrow	\uparrow
+\tferefore	\therefore
+\theerefore	\therefore
+\ther	\therefore
+\there	\therefore
+\theredore	\therefore
+\therefe	\therefore
+\therefier	\therefore
+\therefiore	\therefore
+\thereford	\therefore
+\thereforwe	\therefore
+\thereforx	\therefore
+\therefour	\therefore
+\therefreo	\therefore
+\thereofe	\therefore
+\thereofer	\therefore
+\therhfore	\therefore
+\thertefore	\therefore
+\thesefore	\therefore
+\thwerefore	\therefore
+\thyerefore	\therefore
+\tiames	\times
+\tijmes	\times
+\timesa	\times a
+\timesc	\times c
+\timesdb	\times d b
+\timesm	\times m
+\timesn	\times n
+\timeso	\times o
+\timess	\times s
+\timesx	\times x
+\timesy	\times y
+\timesz	\times z
+\timkes	\times
+\timms	\times
+\timres	\times
+\timrs	\times
+\tines	\times
+\tmies	\times
+\toimes	\times
+\traignle	\triangle
+\trainagle	\triangle
+\tramgle	\triangle
+\tri	\triangle
+\tria	\triangle
+\triaaangle	\triangle
+\trianglg	\triangle
+\triangnle	\triangle
+\trianlgee	\triangle
+\trianng	\triangle
+\trianngke	\triangle
+\trimes	\times
+\trinalge	\triangle
+\trinalgle	\triangle
+\triranlge	\triangle
+\ubsetneqq	\subsetneqq
+\uk	\unk
+\unkc	\unk c
+\unks	\unk s
+\unkt	\unk t
+\unl	\unk
+\vbox	\square
+\yimes	\times
+\zk	z k
+\arrowver	|
+\Arrowvert	|
+\arrowvert	|
+\abngle	\angle
+\Aangle	\angle
+\angL	\angle
+\ANGLE	\angle
+\agnle	\angle
+\anle	\angle
+\anngle	\angle
+\angoe	\angle
+\anglwe	\angle
+\andle	\angle
+\anmgle	\angle
+\bacuase	\because
+\cause	\because
+\bECAUSE	\because
+\causebe	\because
+\bueause	\because
+\BWCAUSE	\because
+\BECAUSE	\because
+\BOT	\bot
+\Dot	\cdot
+\CDOT	\cdot
+\CIRCLE	\circ
+\CIRC	\circ
+\COS	c o s
+\DIV	\div
+\GE	\ge
+\Leftrightrarrow	\Leftrightarrow
+\Lim	l i m
+\Nsubset	\not \subset
+\Odot	\textcircled { \cdot }
+\PI	\pi
+\PXDY	\pxdy
+\PXSBX	\pxsbx
+\Rihtarrow	\Rightarrow
+\Rightar	\Rightarrow
+\Rigntarrow	\Rightarrow
+\RightarroB	\Rightarrow B
+\SPace	\space
+\SPACE	\space
+\SABPC	\space
+\SIN	s i n
+\Ssmear	\smear
+\amear	\smear
+\SMEAR	\smear
+\ABsubsetneqq	A B \subsetneqq
+\Arightarrow	A \rightarrow
+\DiamondABCD	\Diamond A B C D
+\LeftarrowBD	\Leftarrow B D
+\Leftarrowc	\Leftarrow c
+\Leftarrowa	\Leftarrow a
+\Leftrightarrowa	\Leftrightarrow a
+\Leftrightarrowx	\Leftrightarrow x
+\MNphi	M N \phi
+\THEREFORE	\therefore
+\TRIangle	\triangle
+\TRIANGLE	\triangle
+\UNK	\unk
+\DCsubsetneqq	D C \subsetneqq
+\agleB	\angle
+\alp	\alpha
+\apha	\alpha
+\alph	\alpha
+\allpha	\alpha
+\alpaha	\alpha a
+\alphaCos	\alpha c o s
+\alphi	\alpha i
+\alphd	\alpha d
+\alphe	\alpha e
+\angleABEquadBE	\angle A B E \space B E
+\angleDtextit	\angle D
+\angletextit	\angle
+\apaceAB	\space A B
+\apaceB	\space B
+\apaceDBC	\space D B C
+\apceG	\space G
+\aprrox	\approx
+\apporx	\approx
+\apprrox	\approx
+\approxeq	\approxeq
+\arctanx	a r c t a n x
+\arrowvertb	| b
+\arrowvertc	| c
+\bacauseBAC	\because A B C
+\bata	\beta
+\bat	\beta
+\baeta	\beta
+\bcancAB	\smear
+\bcap	\cap
+\bcot	\bot
+\bcup	\cup
+\bcp	\cup
+\beAB	A B
+\becaseu	\because
+\becqause	\because
+\beacase	\because
+\becaUSE	\because
+\beat	\beta
+\beata	\beta
+\beauseBP	\because B P
+\becausl	\because l
+\bigcut	\cup
+\bigopius	\oplus
+\bigotimesm	\textcircled { \div } m
+\bigveea	\vee a
+\biqcup	\cup
+\blankB	\space B
+\blankDC	\space D C
+\blank	\space
+\boAB	\bot A B
+\boDC	\bot D C
+\bodt	\bot
+\but	\bot
+\boot	\bot
+\botABquad	\bot A B \space
+\bulletP	\bullet P
+\cdoys	\cdot
+\ccdot	\cdot
+\cdorb	\cdot
+\cdoot	\cdot
+\cdOt	\cdot
+\cdcot	\cdot
+\cbot	\cdot
+\cdts	\cdot
+\cdods	\cdots
+\cdos	\cdots
+\ctods	\cdots
+\cdotcdot	\cdot \cdot
+\checkmak	\checkmark
+\cifc	\circ
+\ciec	\circ
+\cicr	\circ
+\coA	c o s
+\cpx	c o s
+\cpa	c o s
+\code	c o s
+\colon	:
+\compleent	\complement
+\cony	\cong
+\cots	c o t s
+\cuo	\cup
+\del	\delta
+\delat	\delta
+\deltat	\delta
+\dir	\div
+\dic	\div
+\diiv	\div
+\dirl	\div
+\divided	\div
+\dov	\div
+\dotplusa	\dot { + } a
+\downorarrow	\downarrow
+\downtarrow	\downarrow
+\dxpy	\pxdy
+\eimes	\times
+\itmes	\times
+\entnr	\enter
+\emter	\enter
+\enter	\\
+\ernter	\\
+\ent	\\
+\enrer	\\
+\enetr	\\
+\erter	\\
+\erner	\\
+\ener	\\
+\ente	\\
+\ena	\eta
+\enptyset	\emptyset
+\enterBEA	\\ B E A
+\enterE	\\ E
+\enterGEH	\\ G E H
+\enterP	\\ P
+\enterrW	\\ W
+\enterw	\\ w
+\EnterA	\\ A
+\existsx	\exists x
+\fxdyBD	\pxdy B D
+\geqsllant	\ge
+\geqslabt	\ge
+\glq	\ge
+\gqe	\ge
+\iangleACD	\triangle A C D
+\im	\sim
+\imt	\int
+\infin	\in f \in
+\infx	\in f x
+\ingty	\infty
+\intey	\infty
+\inftys	\infty
+\innfty	\infty
+\ink	\unk
+\inp	\in p
+\iotanx	\iota n x
+\irc	\circ
+\kpi	\pi
+\lalpha	\alpha
+\leqslat	\le
+\leqnt	\le
+\lqe	\le
+\leqlant	\le
+\leqsalnt	\le
+\leqslantf	\le f
+\leqslantg	\le g
+\letriangAOB	\le \triangle A 0 B
+\li	\ll
+\limitsA	A
+\linits	\limits
+\limts	\limits
+\lint	\int
+\llx	\ll x
+\lmoustached	\int d
+\longrightarrowCA	\rightarrow C A
+\lozeng	\lozenge
+\lpha	\alpha
+\mix	m a x
+\muy	\mu y
+\nagle	\angle
+\ngle	\angle
+\napprox	\lnapprox
+\ndubseteq	\not \subseteq
+\mear	\smear
+\mears	\smear
+\negP	\neg P
+\negin	\neg \in
+\negp	\neg p
+\negq	\neg q
+\nep	\not = p
+\neter	\\
+\newline	\\
+\ngeq	\not \ge
+\ngeqx	\not \ge x
+\nin	\ni n
+\nk	\unk
+\noesubset	\not \subset
+\nusbset	\not \subset
+\nosubset	\not \subset
+\notRightarrow	\not \Rightarrow
+\notsubset	\not \subset
+\nusbseteq	\not \subseteq
+\notsubseteq	\not \subseteq
+\notsubsetneqq	\not \subsetneqq
+\nparalle	\not //
+\nter	\\
+\nubset	\not \subset
+\nukAC	\unk A C
+\nur	\nu r
+\ocot	\textcircled { \cdot }
+\odoc	\textcircled { \cdot }
+\odotA	\textcircled { \cdot } A
+\odotABC	\textcircled { \cdot } A B C
+\odotC	\textcircled { \cdot } C
+\odotO	\textcircled { \cdot } O
+\odotangle	\textcircled { \cdot } \angle
+\odotb	\textcircled { \cdot } b
+\odotc	\textcircled { \cdot } c
+\odoto	\textcircled { \cdot } o
+\odotx	\textcircled { \cdot } x
+\omegaC	\omega C
+\omegaa	\omega
+\omrga	\omega
+\orarrawA	\overrightarrow { a } A
+\orarrawAB	\overrightarrow { a } A B
+\orarrawB	\overrightarrow { a } B
+\orarrawBH	\overrightarrow { a } B H
+\orarrawCA	\overrightarrow { a } C A
+\orarrawDC	\overrightarrow { a } D C
+\orarrawEG	\overrightarrow { a } E G
+\orarrawGB	\overrightarrow { a } G B
+\orarrawGE	\overrightarrow { a } G E
+\orarrawGN	\overrightarrow { a } G N
+\orarrawc	\overrightarrow { a } c
+\orarrawn	\overrightarrow { a } n
+\orarraw	\overrightarrow { a }
+\orarroaw	\overrightarrow { a }
+\orarra	\overrightarrow { a }
+\orarow	\overrightarrow { a }
+\orar	\overrightarrow { a }
+\orarr	\overrightarrow { a }
+\orarrowA	\overrightarrow { A }
+\orarrowAB	\overrightarrow { A B }
+\orarrowBG	\overrightarrow { B G }
+\orarrowDE	\overrightarrow { D E }
+\orarrowFP	\overrightarrow { F P }
+\orarrowGD	\overrightarrow { G D }
+\orarrowHB	\overrightarrow { H B }
+\orarrowMQ	\overrightarrow { M Q }
+\orarrowP	\overrightarrow { P }
+\orarrowb	\overrightarrow { b }
+\orarrowm	\overrightarrow { m }
+\orarrown	\overrightarrow { n }
+\orarrowy	\overrightarrow { y }
+\overlinew	\overline { w }
+\overlinex	\overline { x }
+\overrightarrowa	\overrightarrow { a }
+\overrightarrown	\overrightarrow { n }
+\overrightarrowz	\overrightarrow { z }
+\overrightarrowBC	\overrightarrow { B C }
+\overrightarrowrt	\overrightarrow { r t }
+\AA	 A A
+\AB	 A B
+\ABC	 A B C
+\ABCD	 A B C D
+\ABCE	 A B C E
+\ABCM	 A B C M
+\ABD	 A B D
+\ABDF	 A B D F
+\ABE	 A B E
+\ABP	 A B P
+\ABQ	 A B Q
+\AC	 A C
+\ACAD	 A C A D
+\ACB	 A C B
+\ACC	 A C C
+\ACCACD	 A C C A C D
+\ACD	 A C D
+\ACE	 A C E
+\ACG	 A C G
+\ACM	 A C M
+\ACP	 A C P
+\ACV	 A C V
+\AD	 A D
+\ADB	 A D B
+\ADC	 A D C
+\ADE	 A D E
+\ADi	 A D i
+\AE	 A E
+\AEC	 A E C
+\AED	 A E D
+\AF	 A F
+\AG	 A G
+\AGE	 A G E
+\AH	 A H
+\AM	 A M
+\AMC	 A M C
+\AN	 A N
+\AO	 A O
+\AOB	 A O B
+\AOC	 A O C
+\AOD	 A O D
+\AOE	 A O E
+\AOF	 A O F
+\AP	 A P
+\APB	 A P B
+\APC	 A P C
+\APE	 A P E
+\AQ	 A Q
+\AQE	 A Q E
+\AQP	 A Q P
+\BA	 B A
+\BAC	 B A C
+\BAD	 B A D
+\BAP	 B A P
+\BAQ	 B A Q
+\BC	 B C
+\BCA	 B C A
+\BCD	 B C D
+\BCH	 B C H
+\BCnBP	 B C n B P
+\BD	 B D
+\BDA	 B D A
+\BDC	 B D C
+\BE	 B E
+\BEC	 B E C
+\BECE	 B E C E
+\BEO	 B E O
+\BF	 B F
+\BH	 B H
+\BHO	 B H O
+\BM	 B M
+\BME	 B M E
+\BN	 B N
+\BO	 B O
+\BOC	 B O C
+\BOD	 B O D
+\BOE	 B O E
+\BOQ	 B O Q
+\BP	 B P
+\BPA	 B P A
+\BQ	 B Q
+\CA	 C A
+\CAB	 C A B
+\CAD	 C A D
+\CAP	 C A P
+\CB	 C B
+\CBD	 C B D
+\CBO	 C B O
+\CD	 C D
+\CDA	 C D A
+\CDAB	 C D A B
+\CDGH	 C D G H
+\CDO	 C D O
+\CE	 C E
+\CF	 C F
+\CFM	 C F M
+\CG	 C G
+\CM	 C M
+\CMA	 C M A
+\CMD	 C M D
+\CMN	 C M N
+\CO	 C O
+\COB	 C O B
+\COD	 C O D
+\COE	 C O E
+\CP	 C P
+\CPA	 C P A
+\CPD	 C P D
+\CQ	 C Q
+\DA	 D A
+\DAB	 D A B
+\DAC	 D A C
+\DAE	 D A E
+\DAN	 D A N
+\DB	 D B
+\DBAD	 D B A D
+\DBC	 D B C
+\DBE	 D B E
+\DC	 D C
+\DCA	 D C A
+\DCACD	 D C A C D
+\DCB	 D C B
+\DCC	 D C C
+\DCP	 D C P
+\DE	 D E
+\DF	 D F
+\DG	 D G
+\DH	 D H
+\DM	 D M
+\DMQ	 D M Q
+\DO	 D O
+\DOA	 D O A
+\DOC	 D O C
+\DOF	 D O F
+\DON	 D O N
+\DP	 D P
+\DPQ	 D P Q
+\DQ	 D Q
+\EA	 E A
+\EAC	 E A C
+\EAD	 E A D
+\EB	 E B
+\EC	 E C
+\ECB	 E C B
+\ECD	 E C D
+\ECb	 E C b
+\ED	 E D
+\EDC	 E D C
+\EF	 E F
+\EFGH	 E F G H
+\EG	 E G
+\EGH	 E G H
+\EH	 E H
+\EM	 E M
+\EO	 E O
+\EOC	 E O C
+\EP	 E P
+\EPD	 E P D
+\EQ	 E Q
+\En	 E n
+\FB	 F B
+\FBE	 F B E
+\FC	 F C
+\FCB	 F C B
+\FCD	 F C D
+\FD	 F D
+\FE	 F E
+\FEN	 F E N
+\FG	 F G
+\FH	 F H
+\FM	 F M
+\FN	 F N
+\FO	 F O
+\FP	 F P
+\GF	 G F
+\GH	 G H
+\GHO	 G H O
+\GK	 G K
+\GM	 G M
+\GO	 G O
+\GQ	 G Q
+\HA	 H A
+\HB	 H B
+\HC	 H C
+\HG	 H G
+\HGE	 H G E
+\MA	 M A
+\MAC	 M A C
+\MAX	 M A X
+\MB	 M B
+\MC	 M C
+\MCA	 M C A
+\ME	 M E
+\MF	 M F
+\MFD	 M F D
+\MH	 M H
+\MN	 M N
+\MO	 M O
+\MOB	 M O B
+\MOC	 M O C
+\MOD	 M O D
+\NB	 N B
+\NE	 N E
+\NF	 N F
+\NG	 N G
+\NM	 N M
+\NQ	 N Q
+\NT	 N T
+\OA	 O A
+\OAB	 O A B
+\OAD	 O A D
+\OAE	 O A E
+\OB	 O B
+\OBC	 O B C
+\OBE	 O B E
+\OC	 O C
+\OCB	 O C B
+\OCD	 O C D
+\OCE	 O C E
+\OD	 O D
+\ODA	 O D A
+\ODC	 O D C
+\ODE	 O D E
+\ODF	 O D F
+\OE	 O E
+\OEG	 O E G
+\OEQ	 O E Q
+\OF	 O F
+\OFE	 O F E
+\OG	 O G
+\OGM	 O G M
+\OH	 O H
+\OM	 O M
+\OMD	 O M D
+\ON	 O N
+\OP	 O P
+\OPD	 O P D
+\OQ	 O Q
+\PA	 P A
+\PAB	 P A B
+\PAC	 P A C
+\PAD	 P A D
+\PAO	 P A O
+\PB	 P B
+\PBC	 P B C
+\PBE	 P B E
+\PBO	 P B O
+\PC	 P C
+\PCA	 P C A
+\PCD	 P C D
+\PCF	 P C F
+\PD	 P D
+\PDA	 P D A
+\PDB	 P D B
+\PDC	 P D C
+\PDDC	 P D D C
+\PE	 P E
+\PED	 P E D
+\PERPAB	\bot A B
+\PF	 P F
+\PFB	 P F B
+\PG	 P G
+\PM	 P M
+\PN	 P N
+\PO	 P O
+\PQ	 P Q
+\QA	 Q A
+\QB	 Q B
+\QD	 Q D
+\QE	 Q E
+\QEA	 Q E A
+\QF	 Q F
+\QG	 Q G
+\QH	 Q H
+\QM	 Q M
+\QN	 Q N
+\QO	 Q O
+\QP	 Q P
+\QPA	 Q P A
+\QQ	 Q Q
+\RNum	 R N u m
+\RT	 R T
+\SA	 S A
+\SC	 S C
+\Sn	 S n
+\TM	 T M
+\TN	 T N
+\VAD	 V A D
+\VAO	 V A O
+\VD	 V D
+\acC	 a c C
+\acute	 a c u t e
+\aed	 a e d
+\ale	 a l e
+\alnle	\angle
+\dh	 d h
+\di	 d i
+\ma	 m a
+\mac	 m a c
+\man	 m a n
+\mini	 m i n i
+\url	\unk
+\angleA	\angle	A
+\hbox	\square
+\par	\bar
+\lin	l i m
+\angleABC	\angle A B C
+\cyrschwa	\unk
+\lower	
+\raise	
+\CYRSCHWA	\unk
+\angleABD	\angle A B D
+\cent	\unk
+\cyrabhdze	\unk
+\pady	\pxdy
+\arrow	\overrightarrow
+\angleABE	\angle A B E
+\textohm	
+\buildrel	
+\orarrawm	\overrightarrow { a } m
+\te	\unk
+\trmark	\textreferencemark
+\textsurd	\unk
+\textgravedbl	
+\ender	\\
+\nsubsetneq	\not \subseteq
+\nsubet	\not \subet
+\odo	\textcircled { \cdot }
+\smark	\xmark
+\orarrowB	\overrightarrow { B }
+\orarrawGH	\overrightarrow { G H }
+\invdiameter	\unk
+\mim	\sim
+\xLongleftrightarrow	\xleftrightarrow
+\vdi	\unk
+\tho	\unk
+\CYRSCHWAz	\unk
+\nsubsetneqq	\not \subseteqq
+\euro	\unk
+\nsubse	\not \subset
+\overarrow	\overrightarrow
+\orarrawAD	\overrightarrow { a } A D
+\CYRpalochka	\unk
+\rhomboid	\unk
+\overightarrow	\overrightarrow
+\cyrschway	\unk
+\orarrawBC	\overrightarrow { a } B C
+\Atherefore	\therefore
+\BEbecause	\because
+\Lrarrow	\Leftrightarrow
+\geqT	\ge	T
+\rightarrows	\rightarrow s
+\textreferencemarkx	\textreferencemark	x
+\textreferencemar	\textreferencemark
+\cirs	\circ
+\citc	\circ
+\orarrowO	\overrightarrow { O }
+\nsubsetP	\not \subset P
+\nsubnet	\not \subset
+\nsubsetC	\not	\subset	C
+\curvearrowrightf	\curvearrowright f
+\overrightarrowC	\overrightarrow { C }
+\xmar	\xmark
+\downarrrow	\downarrow
+\nsubest	\not \subset
+\nsubseteqA	\not	\subseteq
+\nsubsetPEC	\not \subset P E C
+\padyB	\pxdy B
+\padyCB	\pxdy C B
+\orarrowHG	\overrightarrow { H G }
+\orarrowGB	\overrightarrow { G B }
+\orarrowBH	\overrightarrow { B H }
+\orarrowHG	\overrightarrow { H G }
+\nsubseneq	\not \subseteq
+\orarrowFA	\overrightarrow { F A }
+\smearbecause	\smear \because
+\smearEAF	\smear E A F
+\begincass	\{ \beginmatrix

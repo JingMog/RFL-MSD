@@ -1,0 +1,312 @@
+\UC_FF05	\%
+\UC_FF08	(
+\UC_FF09	)
+\UC_FF0B	+
+\UC_FF0D	-
+\UC_FF0E	.
+\UC_FF0F	/
+\UC_FF1A	:
+\UC_FF0C	,
+\UC_FF1B	;
+\UC_FF1F	?
+\UC_FF01	!
+\UC_FF5B	\{
+\UC_FF5D	\}
+\UC_FF5C	|
+\UC_2460	\numone
+\UC_2461	\numtwo
+\UC_2462	\numthree
+\UC_2463	\numfour
+\UC_2464	\numfive
+\UC_2465	\numsix
+\UC_2466	\numseven
+\UC_2467	\numeight
+\UC_2468	\numnine
+\UC_FFE0	\not \subset
+\UC_FF5E	\sim
+\UC_FF59	y
+\UC_FF58	x
+\UC_FF57	w
+\UC_FF55	u
+\UC_FF54	t
+\UC_FF53	s
+\UC_FF52	r
+\UC_FF51	q
+\UC_FF50	p
+\UC_FF4F	o
+\UC_FF4E	n
+\UC_FF4D	m
+\UC_FF4C	l
+\UC_FF4B	k
+\UC_FF49	i
+\UC_FF48	h
+\UC_FF47	g
+\UC_FF46	f
+\UC_FF45	e
+\UC_FF44	d
+\UC_FF43	c
+\UC_FF42	b
+\UC_FF41	a
+\UC_FF3F	_
+\UC_FF3E	^
+\UC_FF3D	]
+\UC_FF3C	\
+\UC_FF3B	[
+\UC_FF3A	Z
+\UC_FF39	Y
+\UC_FF38	X
+\UC_FF34	T
+\UC_FF33	S
+\UC_FF32	R
+\UC_FF31	Q
+\UC_FF30	P
+\UC_FF2F	O
+\UC_FF2E	N
+\UC_FF2D	M
+\UC_FF2C	L
+\UC_FF2B	K
+\UC_FF29	I
+\UC_FF28	H
+\UC_FF27	G
+\UC_FF26	F
+\UC_FF25	E
+\UC_FF24	D
+\UC_FF23	C
+\UC_FF22	B
+\UC_FF21	A
+\UC_FF1E	>
+\UC_FF1D	=
+\UC_FF1C	<
+\UC_FF19	9
+\UC_FF18	8
+\UC_FF17	7
+\UC_FF16	6
+\UC_FF15	5
+\UC_FF14	4
+\UC_FF13	3
+\UC_FF12	2
+\UC_FF11	1
+\UC_FF10	0
+\UC_FF0A	*
+\UC_FF07	^ { \prime }
+\UC_FF06	&
+\UC_FF04	$
+\UC_FF03	#
+\UC_FF02	"
+\UC_FE6A	\%
+\UC_FE65	>
+\UC_FE64	<
+\UC_FE63	-
+\UC_FE62	+
+\UC_FE5A	)
+\UC_FE59	(
+\UC_4E28	|
+\UC_33A1	m ^ { 2 }
+\UC_339E	k m
+\UC_339D	c m
+\UC_338F	k g
+\UC_3221	( \UC_4E8C )
+\UC_30CB	\UC_4E8C
+\UC_309C	^ { \circ }
+\UC_301E	"
+\UC_301D	"
+\UC_3015	)
+\UC_3014	(
+\UC_3009	>
+\UC_3008	<
+\UC_25CB	\circ
+\UC_25B3	\triangle
+\UC_2571	/
+\UC_2502	|
+\UC_2500	-
+\UC_2492	1 1 .
+\UC_2489	2 .
+\UC_2488	1 .
+\UC_2487	( 2 0 )
+\UC_2486	( 1 9 )
+\UC_2484	( 1 7 )
+\UC_2482	( 1 5 )
+\UC_2481	( 1 4 )
+\UC_2480	( 1 3 )
+\UC_247F	( 1 2 )
+\UC_247E	( 1 1 )
+\UC_247D	( 1 0 )
+\UC_247C	( 9 )
+\UC_247A	( 7 )
+\UC_2479	( 6 )
+\UC_2478	( 5 )
+\UC_2477	( 4 )
+\UC_2476	( 3 )
+\UC_2475	( 2 )
+\UC_2474	( 1 )
+\UC_2469	\textcircled { 1 0 }
+\UC_22A5	\bot
+\UC_2299	\odot
+\UC_2284	\not \subset
+\UC_2282	\subset
+\UC_2266	\le
+\UC_2265	\ge
+\UC_2264	\le
+\UC_2260	\not =
+\UC_224C	\cong
+\UC_2248	\approx
+\UC_223D	\sim
+\UC_2236	:
+\UC_2235	\because
+\UC_2234	\therefore
+\UC_222B	\int
+\UC_222A	\cup
+\UC_2229	\cap
+\UC_2228	\vee
+\UC_2227	\wedge
+\UC_2225	//
+\UC_2223	|
+\UC_2220	\angle
+\UC_221E	\infty
+\UC_221A	\checkmark
+\UC_2215	/
+\UC_2212	-
+\UC_220F	\prod
+\UC_2209	\not \in
+\UC_2208	\in
+\UC_2205	\varnothing
+\UC_2202	\alpha
+\UC_2199	\swarrow
+\UC_2198	\searrow
+\UC_2197	\nearrow
+\UC_2193	\downarrow
+\UC_2192	\rightarrow
+\UC_2191	\uparrow
+\UC_2190	\leftarrow
+\UC_2174	v
+\UC_2103	\textcelsius
+\UC_2081	_ { 1 }
+\UC_2080	_ { 0 }
+\UC_203A	>
+\UC_2039	<
+\UC_2033	"
+\UC_2032	^ { \prime }
+\UC_2026	\cdots
+\UC_2025	\cdot \cdot
+\UC_201D	"
+\UC_201C	"
+\UC_2019	^ { \prime }
+\UC_2015	-
+\UC_2014	-
+\UC_2013	-
+\UC_0430	a
+\UC_0421	C
+\UC_03C9	\omega
+\UC_03C7	\chi
+\UC_03C6	\varphi
+\UC_03C1	\rho
+\UC_03C0	\pi
+\UC_03BE	\xi
+\UC_03BC	\mu
+\UC_03BB	\lambda
+\UC_03B8	\theta
+\UC_03B5	\varepsilon
+\UC_03B3	\gamma
+\UC_03B2	\beta
+\UC_03B1	\alpha
+\UC_03A9	\Omega
+\UC_03A6	\Phi
+\UC_03A3	\sum
+\UC_03A0	\prod
+\UC_0399	I
+\UC_02CD	_
+\UC_02CA	^ { \prime }
+\UC_0283	\int
+\UC_01B6	z
+\UC_00F7	\div
+\UC_00D8	\varnothing
+\UC_00D7	\times
+\UC_00BD	1 / 2
+\UC_00BA	^ { \circ }
+\UC_00B9	^ { 1 }
+\UC_00B7	\cdot
+\UC_00B4	^ { \prime }
+\UC_00B3	^ { 3 }
+\UC_00B2	^ { 2 }
+\UC_00B1	\pm
+\UC_00B0	^ { \circ }
+\UC_00AD	-
+\UC_00AA	^ { a }
+\UC_00AC	\neg
+\UC_00AF	^ { - }
+\UC_00BB	\gg
+\UC_0251	\alpha
+\UC_02C8	\prime
+\UC_02C9	^ { - }
+\UC_0394	\Delta
+\UC_0395	E
+\UC_041D	H
+\UC_041E	O
+\UC_041F	\prod
+\UC_0428	\UC_0428
+\UC_0435	e
+\UC_0440	p
+\UC_200B	
+\UC_2018	\UC_2018
+\UC_2061	
+\UC_2105	\UC_2105
+\UC_2126	\Omega
+\UC_2160	I
+\UC_2161	I I
+\UC_2162	I I I
+\UC_2163	I V
+\UC_2164	V
+\UC_2165	V I
+\UC_2166	V I I
+\UC_2167	V I I I
+\UC_2168	I X
+\UC_2169	X
+\UC_2170	i
+\UC_2171	i i
+\UC_2172	i i i
+\UC_2173	i v
+\UC_2179	x
+\UC_21C0	\rightharpoonup
+\UC_21C4	\rightleftarrows
+\UC_21CB	\leftrightharpoons
+\UC_21CC	\rightleftharpoons
+\UC_21D4	\Leftrightarrow
+\UC_2206	\triangle
+\UC_2218	\circ
+\UC_2219	\cdot
+\UC_221D	\propto
+\UC_2237	: :
+\UC_223C	\sim
+\UC_2259	\overset \wedge =
+\UC_225C	\overset \triangle =
+\UC_2261	\equiv
+\UC_2267	\geqq
+\UC_226A	\ll
+\UC_226B	\gg
+\UC_22C5	\cdot
+\UC_22EE	\vdots
+\UC_22EF	. . .
+\UC_247B	( 8 )
+\UC_24BC	\textcircled { G }
+\UC_2550	=
+\UC_2573	\times
+\UC_25CF	\cdot
+\UC_2782	\textcircled { 3 }
+\UC_2A7D	\le
+\UC_3007	\circ
+\UC_300A	\UC_300A
+\UC_300B	\UC_300B
+\UC_30ED	\UC_30ED
+\UC_E009	
+\UC_E0FC	
+\UC_E100	
+\UC_E225	
+\UC_E226	
+\UC_E229	
+\UC_E4D3	
+\UC_E607	
+\UC_E61D	
+\UC_FE30	:
+\UC_FE51	,
+\UC_FE52	.
+\UC_FE55	:

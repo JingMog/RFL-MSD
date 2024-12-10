@@ -1,0 +1,445 @@
+\fra	\frac
+\ove	\over
+\underlin	\underline
+\enbd	\end
+\fa	\frac
+\fac	\frac
+\farac	\frac
+\farc	\frac
+\feac	\frac
+\fr	\frac
+\fraac	\frac
+\frad	\frac
+\frae	\frac
+\frav	\frac
+\frax	\frac
+\frca	\frac
+\frea	\frac
+\frrac	\frac
+\ftac	\frac
+\nderline	\underline
+\overset	\overset
+\overlin	\overline
+\sqer	\sqrt
+\sqrrt	\sqrt
+\sqrta	\sqrt { a }
+\endmatrixegincases	\endmatrix \begincases
+\smearINSERT	\smear INSERT
+\spqrt	\sqrt
+\sprt	\sqrt
+\sprtb	\sqrt
+\sptr	\sqrt
+\sqart	\sqrt
+\sqrc	\sqrt
+\sqre	\sqrt
+\sqret	\sqrt
+\sqrtOF	\sqrt	O	F
+\sqrtm	\sqrt	m
+\sqrtn	\sqrt	n
+\sqrtp	\sqrt	p
+\sqry	\sqrt
+\sqt	\sqrt
+\srtq	\sqrt
+\tbetbf	\textbf
+\tbextbf	\textbf
+\tbxtbf	\textbf
+\texttt	\textbf
+\textsf	\textbf
+\TEXTBF	\textbf
+\teatbf	\textbf
+\texrtbf	\textbf
+\textbfbf	\textbf
+\textfb	\textbf
+\texytbf	\textbf
+\texfbf	\textbf
+\tcdot	\cdot
+# \te	\Re
+\tectbf	\textbf
+\teextbf	\textbf
+\testbf	\textbf
+\tetbf	\textbf
+\tettbf	\textbf
+\tetxbf	\textbf
+\tetxtbf	\textbf
+\tex	\text
+\texTbf	\textbf
+\texbf	\textbf
+\texbtf	\textbf
+\texcircled	\textcircled
+\texebf	\textbf
+\texetbf	\textbf
+\texgbf	\textbf
+\texit	
+\texrbf	\textbf
+\textb	\textbf
+\textbbf	\textbf
+\textbd	\textbf
+\textbe	\textbf
+\textbf	\textbf
+\textbfP	\textbf	P
+\textbfa	\textbf	a
+\textbfb	\textbf	b
+\textbfcircled	\textcircled
+\textbfg	\textbf	g
+\textbfx	\textbf	x
+\textbg	\textbf
+\textbgf	\textbf
+\textbigcircle	\textcircled
+\textbk	\textbf
+\textbook	\textbar
+\textbt	\textbf
+\textbullet	\bullet
+\textc	c
+\textcelsiusC	\textcelsius	C
+\textcentoldstyle	
+\textci	\textcircled
+\textcicled	\textcircled
+\textciecled	\textcircled
+\textcir	\textcircled
+\textcirc	\textcircled
+\textcirccled	\textcircled
+\textcirciled	\textcircled
+\textcircl	\textcircled
+\textcircld	\textcircled
+\textcirclde	\textcircled
+\textcirclel	\textcircled
+\textcirclod	\textcircled
+\textcirclted	\textcircled
+\textcirdled	\textcircled
+\textcireled	\textcircled
+\textciriled	\textcircled
+\textcirled	\textcircled
+\textcirxled	\textcircled
+\textciwcled	\textcircled
+\textcled	\textcircled
+\textclrcled	\textcircled
+# \textdblhyphenchar	\textdollar
+\textef	\textbf
+# \textemdash	\textemdash
+\textf	\textbf
+\textfbf	\textbf
+\texthf	\textbf
+\texti	\textit
+\textif	\textit
+\textnf	\textbf
+\textrbf	\textbf
+\texttbf	\textbf
+\texttcircled	\textcircled
+\texttit	\textit
+\textvf	\textbf
+\texxtbf	\textbf
+\texxtit	\textit
+\texybf	\textbf
+\texycircled	\textcircled
+\teztbf	\textbf
+\timesbcancel	\times	\bcancel
+\trxtbf	\textbf
+\twxtbf	\textbf
+\txetbf	\textbf
+\txetcircled	\textcircled
+\txtbf	\textbf
+\txxtbf	\textbf
+\thota	\theta
+\uinderline	\underline
+\undeline	\underline
+\under	\underline
+\undereline	\underline
+\underlien	\underline
+\underlineC	\underline	C
+\underlineE	\underline	E
+\underlineRR	\underline	R	R
+\underlinea	\underline	a
+\underlinen	\underline	n
+\underlineq	\underline	q
+\underlinex	\underline	x
+\underliney	\underline	y
+\underlinez	\underline	z
+\underling	\underline
+\underlinr	\underline
+\undline	\underline
+\undreline	\underline
+\undrline	\underline
+\undrtline	\underline
+\unerline	\underline
+\unferline	\underline
+\unhderline	\underline
+\wideha	\widehat
+\widehatC	\widehat	C
+\widehata	\widehat	a
+\widehatb	\widehat	b
+\widehaty	\widehat	y
+\xLongequal	\xlongequal
+\xlongleftrightarrow	\xleftrightarrow
+\xrighttarrow	\xrightarrow
+\yexybf	\textbf
+\paralleltextit	\parallel	\textit
+\paralletextit	\parallel	\textit
+\scriptscriptstyle	\scriptscriptstyle
+\scriptstyle	\scriptstyle
+\scriptstyleA	\scriptstyle	A
+\scriptstyleABC	\scriptstyle	A	B	C
+\scriptstyleAD	\scriptstyle	A	D
+\scriptstyleD	\scriptstyle	D
+\scriptstyleQABP	\scriptstyle	Q	A	B	P
+\frqac	\frac
+\FRAC	\frac
+\faac	\frac
+\fraC	\frac
+\frsc	\frac
+\fqrc	\frac
+\frtac	\frac
+\fraxc	\frac
+\frc	\frac
+\frce	\frac
+\frqc	\frac
+\grac	\frac
+\ferac	\frac
+\fras	\frac
+\rac	\frac
+\bcacenl	\bcancel
+\beancel	\bcancel
+\bacnel	\bcancel
+\bacacel	\bcancel
+\bancael	\bcancel
+\ncancel	\bcancel
+\bcanccel	\bcancel
+\bcamcel	\bcancel
+\bcanael	\bcancel
+\bcanlce	\bcancel
+\becancell	\bcancel
+\blancel	\bcancel
+\bcancl	\bcancel
+\bcance	\bcancel
+\bcanca	\bcancel
+\bcanle	\bcancel
+\bncancel	\bcancel
+\bcancal	\bcancel
+\bacancel	\bcancel
+\bcabcel	\bcancel
+\bcanclce	\bcancel
+\bacncel	\bcancel
+\bcancecl	\bcancel
+\bcancek	\bcancel
+\bccancel	\bcancel
+\bcaccel	\bcancel
+\bcandel	\bcancel
+\bcanc	\bcancel
+\bcencel	\bcancel
+\bcanceL	\bcancel
+\bcanerl	\bcancel
+\bcaancel	\bcancel
+\bcacle	\bcancel
+\bca	\bcancel
+\bcabce	\bcancel
+\bcancer	\bcancel
+\bcancrl	\bcancel
+\bcanncel	\bcancel
+\bcanxel	\bcancel
+\bclancel	\bcancel
+\bcsncel	\bcancel
+\bczncle	\bcancel
+\becancle	\bcancel
+\ncancle	\bcancel
+\ancel	\bcancel
+\bcacncel	\bcancel
+\bcancdl	\bcancel
+\blance	\bcancel
+\bcanse	\bcancel
+\bcanecl	\bcancel
+\bczncel	\bcancel
+\becancel	\bcancel
+\bcaacnel	\bcancel
+\bcan	\bcancel
+\bbcancel	\bcancel
+\bcancrel	\bcancel
+\bcanceql	\bcancel
+\bcangel	\bcancel
+\bcnacel	\bcancel
+\bcancei	\bcancel
+\baccnel	\bcancel
+\bcances	\bcancel
+\bcacel	\bcancel
+\bcandcel	\bcancel
+\bcansel	\bcancel
+\bancle	\bcancel
+\bcancfel	\bcancel
+\bcancen	\bcancel
+\bcancedl	\bcancel
+\bcancel	\bcancel
+\bcancle	\bcancel
+\kbcancel	\bcancel
+\BCANCEL	\bcancel
+\BCANCLE	\bcancel
+\bcacnel	\bcancel
+\bcancec	\bcancel
+\bcanceel	\bcancel
+\bcanel	\bcancel
+\bcncel	\bcancel
+\bcanclee	\bcancel
+\banlace	\bcancel
+\SQRT	\sqrt
+\fqrt	\sqrt
+\beging	\begin
+\bedib	\begin
+\begim	\begin
+\bengin	\begin
+\brgin	\begin
+\begian	\begin
+\bergin	\begin
+\bein	\begin
+\bgein	\begin
+\begion	\begin
+\beqin	\begin
+\begiin	\begin
+\being	\begin
+\beg	\begin
+\begi	\begin
+\bedin	\begin
+\degin	\begin
+\begun	\begin
+\begib	\begin
+\egin	\begin
+\beign	\begin
+\begoin	\begin
+\behin	\begin
+\besin	\begin
+\beginP	\begin
+\BEGIN	\begin
+\begincass	\begin{cases}
+\beginarray	\begin{array}
+\doct	\dot
+\enda	\end
+\enbd	\end
+\endases	\end{cases}
+\frownA	\frown { A }
+\frownB	\frown { B }
+\frownE	\frown { E }
+\fyown	\frown
+\frowm	\frown
+\frwon	\frown
+\ledt	\left
+\lefe	\left
+\legt	\left
+\lteft	\left
+\letf	\left
+\lrft	\left
+\lunderline	\underline
+\marhop	\mathop
+\overlint	\overline
+\ovreline	\overline
+\ovweline	\overline
+\ocerline	\overline
+\overling	\overline
+\onerline	\overline
+\ovelrine	\overline
+\overlinr	\overline
+\overkine	\overline
+\ocerset	\overset
+\orarroe	\overrightarrow
+\overright	\overrightarrow
+\overrightarro	\overrightarrow
+\overrightaggow	\overrightarrow
+\overrgitarrow	\overrightarrow
+\overrighta	\overrightarrow
+\orarrozzw	\overrightarrow
+\overrightarraw	\overrightarrow
+\overrightraaow	\overrightarrow
+\overrughtrarrow	\overrightarrow
+\owerrightarrow	\overrightarrow
+\orarro	\overrightarrow
+\orarrow	\overrightarrow
+\orarrw	\overrightarrow
+\overrig	\overrightarrow
+\overrightarroww	\overrightarrow
+\ovarrightarrow	\overrightarrow
+\overrightorarrow	\overrightarrow
+\overrigtarrow	\overrightarrow
+\overrightarrrow	\overrightarrow
+\overrogjtarrow	\overrightarrow
+\orattow	\overrightarrow
+\overrightarrowow	\overrightarrow
+\overrightar	\overrightarrow
+\overrightrrow	\overrightarrow
+\orarrrow	\overrightarrow
+\orarrowghtarrow	\overrightarrow
+\overrighttarrow	\overrightarrow
+\vec	\overrightarrow
+\sart	\sqrt
+\sbcancel	\bcancel
+\overrigharrow	\overrightarrow
+\overrighrarrow	\overrightarrow
+\overrightarrowc	\overrightarrow c
+\overrightarrowm	\overrightarrow m
+\overringhtarrow	\overrightarrow
+\overroghtarrow	\overrightarrow
+\overrrightarrow	\overrightarrow
+\ovewrrightarrow	\overrightarrow
+\angleBCDunderline	\angle B C D \underline
+\Downarro	\Downarrow
+\Ooverrightarrow	\overrightarrow
+\qart	\sqrt
+\aqrt	\sqrt
+\sqrr	\sqrt
+\ssqrt	\sqrt
+\srqt	\sqrt
+\sqtr	\sqrt
+\sqrtt	\sqrt
+\sqr	\sqrt
+\qrt	\sqrt
+\textsurd	\sqrt
+\textcircle	\textcircled
+\adot	a \dot
+\box	\square
+\underleftarrow	\underleftarrow
+\underleftrightarrow	\underleftrightarrow
+\underrightarrow	\underrightarrow
+\underset	\underset
+\undersetn	\underset	n
+\var	\bar
+\eng	\end
+\overest	\overset
+\endc	\endcases
+\ebd	\end
+\beginc	\begincases
+\ens	\end
+\ned	\end
+\smearfrac	\smear	\frac
+\subet	\subset
+\ffrac	\frac
+\fzrac	\frac
+\ed	\end
+\timesfrac	\times	\frac
+\enq	\end
+\Right	\right
+\emd	\end
+\edn	\end
+\sqqrt	\sqrt
+\hatb	\hat b
+\pxdyfrac	\pxdy	\frac
+\sqr	\sqrt
+\fare	\frac
+\extbf	\textbf
+\stackre	\overset
+\lambd	\lambda
+\overlibe	\overline
+\cdotfrac	\cdot	\frac
+\smearbcancel	\smear	\bcancel
+\smearleft	\smear	\left
+\varph  \varphi
+\wedeg  \wedge
+\Downarro	\Downarrow
+\beginca	\begincases
+\TIMES	\times
+\overrightrarrow	\overrightarrow
+\overrughtrarrow	\overrightarrow
+\overste	\overset
+\sqert	\sqrt
+\sqrtr	\sqrt
+\textcirlce	\textcircled
+\textcirced	\textcircled
+\textcirlced	\textcircled
+\textcricled	\textcircled
+\textircled	\textcircled
+\textrircled	\textcircled
+\twxtcircled	\textcircled
+\txtcircled	\textcircled

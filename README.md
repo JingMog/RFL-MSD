@@ -34,15 +34,15 @@ In Our paper, we use two dataset as follows.
 ## :memo: Ring-Free Language
 Our Ring-Free Language (RFL) utilizes a divide-and-conquer strategy to describe chemical structures in a hierarchical form. For a molecular structure $G$, it will be equivalently converted into a molecular skeleton $S$, individual ring structures $R$ and branch information $F$.
 
-You can use the following command to generate Ring-Free Language of single samples. We have provided some typical examples for testing in `./RFL_/RFL.py`:
+You can use the following command to generate Ring-Free Language of single samples. We have provided some typical examples for testing in `./RFL/RFL.py`:
 ```bash
-cd RFL_
+cd RFL
 python RFL.py
 ```
 
 Batch generation of multiple process using mutli-processings:
 ```bash
-cd RFL_
+cd RFL
 bash RFL_gen.sh
 ```
 
@@ -104,7 +104,6 @@ If you find our work is useful in your research, please consider citing:
 ```
 
 If you have any question, please feel free to contact me: qkchang@mail.ustc.edu.cn
-
 
 
 
