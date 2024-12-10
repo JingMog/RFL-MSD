@@ -9,7 +9,6 @@ TODO:
 - [ ] Update Source Code.
 - [ ] Add a simple demo. 
 
-
 ## :star: Overview 
 
 In this work, we propose a novel Ring-Free Language (RFL), which utilizes a divide-and-conquer strategy to describe chemical structures in a hierarchical form. RFL allows complex molecular structures to be decomposed into multiple parts. This approach significantly reduces the learning difficulty for recognition models. Leveraging RFL, we propose a universal Molecular Skeleton Decoder (MSD), which comprises a skeleton generation module that progressively predicts the molecular skeleton and individual rings, along with a branch classification module for predicting branch information. Experimental results demonstrate that the proposed RFL and MSD can be applied to various mainstream methods, achieving superior performance compared to state-of-the-art approaches in both printed and handwritten scenarios.
@@ -46,7 +45,6 @@ cd RFL
 bash RFL_gen.sh
 ```
 
-Part of the processing code from this repo: 
 
 ## :bulb: Training
 You can start training using the following command:
