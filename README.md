@@ -16,12 +16,12 @@ The primary objective of Optical Chemical Structure Recognition is to identify c
 
 Comparasion of RFL with previous modeling language: 
 <div align="center">
-<img src="img/Introduction.png" alt="Introduction" width="450" />
+<img src="img/Introduction.png" alt="Introduction" width="550" />
 </div>
 
 Our Model Architecture:
 <div align="center">
-<img src="img/Framework.png" alt="model architecture" width="600" />
+<img src="img/Framework.png" alt="model architecture" width="750" />
 </div>
 
 
@@ -65,31 +65,19 @@ bash test_organic.sh
 
 ## :rocket: Experiment Results
 Comparison with state-of-the-art methods on handwritten dataset (EDU-CHEMC) and printed dataset (Mini-CASIA-CSDB).
-| Methods | Markup | Params (M) | Flops (G) | EDU-CHEMC EM (%) | EDU-CHEMC Struct-EM (%) | Mini-CASIA-CSDB EM (%) | Mini-CASIA-CSDB Struct-EM (%) |
-|-------------------------------------|--------|------------|-----------|------------------|--------------------------|------------------------|------------------------------|
-| Imago †| SMILES | -| -| 0.00 | 0.00 | 38.80| 38.88 |
-| WYGIWYS ‡ | SMILES | -| -| - | -| 78.55| -*|
-| BTTR ‡ | SSML | 4.77| 9.65 | 58.21| 66.83| 78.22| -*|
-| ABM ‡| SSML | 22.45 | 19.39| 58.78| 67.24| - | - |
-| CoMER †| SSML | 4.99| 11.18| 59.47| 68.71| 90.67| 91.06 |
-| **DenseWAP (Baseline)**| SSML | 15.39 | 18.98| 61.35| 69.68| 92.09| 92.47 |
-| **MSD-DenseWAP (Ours)** | RFL| 16.01 | 21.00| **64.92** | **73.15** | <u>94.10</u> | <u>94.44</u> |
-| **RCGD (Baseline)** | SSML | 16.11 | 21.02| 62.86| 71.88| 95.01| 95.38 |
-| **MSD-RCGD (Ours)**| RFL| 16.74 | 23.04| **65.39** | **73.26** | **95.23** | **95.58**|
 
-* † denotes reimplementation results.
-* ‡ refers to results from (Hu et al. 2023).
-* All Params (M) and Flops (G) are measured with an input size of (1, 3, 200, 500).
-<!-- ![results](img/Result.png) -->
+<div align="center">
+<img src="img/Result.png" alt="Result" width="800" />
+</div>
 
 
 Ablation study on the EDU-CHEMC dataset, with all systems based on MSD-DenseWAP.
 | System | MSD  | [conn] | EM | Struct-EM |
 |--------|------|--------|-------|-----------|
-| T1  | &#x2716;| &#x2716;  | 38.70 | 49.45  |
-| T2  | &#x2716;| &#x2714;  | 44.02 | 55.77  |
-| T3  | &#x2714;| &#x2716;  | 52.76 | 58.58  |
-| T4  | &#x2714;| &#x2714;  | 64.96 | 73.15  |
+| T1  | × | × | 38.70 | 49.45  |
+| T2  | × | √ | 44.02 | 55.77  |
+| T3  | √ | × | 52.76 | 58.58  |
+| T4  | √ | √ | 64.96 | 73.15  |
 
 
 To prove that RFL and MSD can simplify molecular structure recognition and enhance generalization ability, we design experiments on molecule complexity.
@@ -115,6 +103,7 @@ If you find our work is useful in your research, please consider citing:
 }
 ```
 
+If you have any question, please feel free to contact me: qkchang@mail.ustc.edu.cn
 
 
 
