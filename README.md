@@ -9,16 +9,19 @@
 </p>
 </div>
 
-This is the official implementation of our paper: "RFL: Simplifying Chemical Structure Recognition with Ring-Free Language". Accepted by AAAI 2025.
+This is the official implementation of our paper: "RFL: Simplifying Chemical Structure Recognition with Ring-Free Language". Accepted by AAAI 2025 oral.
 
 Paper arxiv: [Paper](https://arxiv.org/abs/2412.07594)
 
 
 ## :fire: News:
 
+- 2025.01.20. Our paper is selected as **AAAI 2025 oral**, congratulations :clap::clap::clap:.
+- The source code including training and inference has relase.
+
 TODO:
 - [x] Update paper link in arxiv.
-- [ ] Update Source Code.
+- [x] Update Source Code.
 - [ ] Add a simple demo. 
 
 ## :star: Overview 
