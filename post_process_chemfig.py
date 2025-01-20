@@ -2,7 +2,7 @@ import os, sys
 import argparse
 import pdb
 import tqdm
-from RFL_ import utils
+from RFL import utils
 
 def main(args):
     with open(args.input, "r") as fin:
