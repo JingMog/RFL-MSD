@@ -113,15 +113,14 @@ Case Study:
 If you find our work is useful in your research, please consider citing:
 
 ```
-@misc{
-  chang2024rfl,
-  title={RFL: Simplifying Chemical Structure Recognition with Ring-Free Language}, 
-  author={Qikai Chang and Mingjun Chen and Changpeng Pi and Pengfei Hu and Zhenrong Zhang and Jiefeng Ma and Jun Du and Baocai Yin and Jinshui Hu},
-  year={2024},
-  eprint={2412.07594},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2412.07594}, 
+@inproceedings{chang2025rfl,
+  title={RFL: Simplifying Chemical Structure Recognition with Ring-Free Language},
+  author={Chang, Qikai and Chen, Mingjun and Pi, Changpeng and Hu, Pengfei and Zhang, Zhenrong and Ma, Jiefeng and Du, Jun and Yin, Baocai and Hu, Jinshui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={2},
+  pages={2007--2015},
+  year={2025}
 }
 ```
 
