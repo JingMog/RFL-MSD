@@ -22,7 +22,6 @@ Paper arxiv: [Paper](https://arxiv.org/abs/2412.07594)
 TODO:
 - [x] Update paper link in arxiv.
 - [x] Update Source Code.
-- [ ] Add a simple demo. 
 
 ## :star: Overview 
 
